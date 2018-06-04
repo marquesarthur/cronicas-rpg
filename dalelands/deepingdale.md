@@ -141,9 +141,16 @@ Nesse meio tempo, o grupo que explorava as cavernas descobre uma antiga profecia
     src='
 https://i.imgur.com/RbXq8S3.png' 
     style='width:150px' />
-    <p>Ladrilhos</p>
 </div>
 
+
+<div style="text-align: center">
+  <img 
+    src='
+https://i.pinimg.com/564x/94/40/23/944023c91a58b42589b737bb88647025.jpg' 
+    style='width:230px' />
+    <p>Ladrilhos</p>
+</div>
 
 <div class='descriptive'>
 ##### A !@#$%^ saga
@@ -164,12 +171,18 @@ https://i.imgur.com/RbXq8S3.png'
 
 </div>
 
-## Capítulo 4: Shandraxil
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+\page
+
+## Capítulo 4: Shadraxil
 
 
 Quando a companhia se prepara para escoltar o humano e encontrar o destacamento que explorava as cavernas, energia necrótica emana pela caverna como se o próprio plano das sombras se mesclasse ao plano material. Uma voz nefasta ecoa pelos corredores e cavernas enquanto as sombras da caverna criam vida e se aglomeram numa forma reptiliana.
 
-*- Tolos, eu engano gigantes e drows sem qualquer distinção. Eles foram apenas peças em meu jogo e agora vocês estão com meu prêmio. É chegada a hora de Shandraxil !!!*
+*- Tolos, eu engano gigantes e drows sem qualquer distinção. Eles foram apenas peças em meu jogo e agora vocês estão com meu prêmio. É chegada a hora de Shadraxil !!!*
 
 Dito isto, as sombras se moldam em um dragão. A companhia se prepara para proteger o humano e lutar contra a criatura.
 
@@ -178,12 +191,7 @@ Barbarin entra em frenesi e parte contra o dragão. Aghmenon coloca o humano em 
 
 Estudando o campo de batalha e vendo que o dragão era poderoso demais, Jassan coloca um broche da companhia em sua pantera - **Bagheera** - alisa o seu pescoço e comanda a besta *"Fuja. Alerta o povo das terras dos vales sobre a criatura e de que há um homem que apareceu após o ritual. Ele é importante".* Bagheera corre com sua agilidade felina e escapa das garras do dragão enquanto a criatura luta contra Barbarin, Aghamenon, Muchbeer e Balin. 
 
-<div class='pageNumber auto'></div>
-<div class='footnote'>PARTE 1 | Diário de Campanha</div>
-
-
-\page
-
+<br><br><br><br>
 
 
 <div style="text-align: center">
@@ -202,10 +210,163 @@ Quatro membros da companhia escaparam da criatura. Cinco morreram em meio as cha
 
 Conseguirão os membros da companhia dos Wyvern cinzas alertar a cidade de Lua Alta e os heróis do vale sobre o ritual, o refém misterioso e a besta reptiliana?
 
+
+## Capítulo 5: Noite reconfortante
+
+
+Com o exército gignte marchando e cada vez mais próximo à Lua Alta, lorde Theremen convida os heróis para uma noite de festas e comunhão com a guarda da cidade. Muitos perecerão no combate que está por vir e a noite acalma um pouco os ânimos. Lorde Theremen discute com os heróis como Lua Alta pode recompensá-los. Shrek pede que seu martelo - princesa - seja encantado magicamente. Litus veio para honrar a aliança que Cormyr tem com a terra dos vales. Ellion diz que não deseja nada e cada vez mais ele aparanta ter deixado sua natureza mercenária para trás. Por fim, Hasgard diz que fez um acordo com os magos vermelhos de Thay e que, caso eles ajudem no combate, Lua Alta deve ceder terras para eles para que um conclave seja construído no vale profundo. Theremen receia fechar um acordo com os magos, mas antes que ele chegue a uma decisão os sinos da cidade alertam da proximidade do exército inimigo. 
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/564x/01/db/e2/01dbe290d31bb92662decdd507f8f2e8.jpg' 
+    style='width:300px' />
+    <p>Salões do forte negro</p>
+</div>
+
+
 <div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
+
+
+
+## Capítulo 6: Batalha de Lua Alta
+
+
+Os sinos da cidade ecoam. Arqueiros se posicionam nas muralhas e começam a atirar saraivadas de flechas nos gigantes que marcham e trazem máquinas de cerco consigo. Os gigantes atiram pedras meladas com pixe e óleo. Gigantes de fogo mestres em piromancia incendeiam as pedras enquanto os projeteis colidem contra as muralhas de madeira da cidade. Cedo ou tarde as muralhas cederão e os gigantes invadirão a cidade.
+
+Litus ordena que um pequeno grupo de elite vá e destrua as catapultas. Para isso, é necessário atrair os gigantes que protegem as máquinas de cerco para longe delas e os heróis do vale se prontificam a engajar as criaturas. O portão oeste de cidade é destruído, Shrek e Hasgard se posicionam a frente de Ellion e Litus, que atiram flechas de seus arcos. Ettins -- gigantes de duas cabeças -- protegem um gigante de fogo que incendeia os projéteis que castigam a cidade. Os heróis lutam contra os Ettins e o gigante de fogo enquanto mais projéteis atingem o campo de batalha. Mesmo os heróis não saem ilesos e vários dos projéteis os atigem ou atigem casas e fortificações próximas tornando o campo de batalha em um mar de caos -- há homens correndo e lutando contra os gigantes, há tropas tentando apagar o fogo ou socorrer feridos e, em meio a toda a confusão, a tropa principal da cidade recua para o castelo enquanto os gigantes invadem a cidade.
+
+
+Quando praticamente todos os Ettins e gigantes de fogo são derrotados, Shrek e Litus percebem porque as tropas recuam. Há dois titãs de cerco obliterando as defesas de lua alta. Titãs de cerco são três vezes maiores que qualquer gigante já visto, eles usam pinheiros ou sequóias como clavas e seus golpes destroem casas e fortificações. Há dois titãs de cerco, chamados de Joe e Moe e os heróis sabem que o plano dos gigantes é atacar diretamente o castelo negro, matar o lorde Theremen e abaixar a moral das tropas de lua alta.
+
+Shrek grita que é capaz de dar cabo dos Ettins restantes e comanda Ellion, Litus e Hasgar a parar a investida dos titãs.
+
+Litus atira suas flechas em um dos titãs e Ellion se aproxima para combater as criaturas no corpo-a-corpo. As pisadas dos titãs fazem o chão tremer e Hasgard não consegue se aproximar dos titãs porque ele perde parte de seu balanço e cai. Um dos gigantes que já sofreu vários ataques investe contra o portão do castelo e salta com o seu corpo contra os portões do castelo -- que são destruídos. Enquanto o titã se recobra da investida, Ellion aproveita a oportunidade e sobe no braço do gigante desferindo vários ataques enquanto suas espadas cortam as veias do gigante que grita de dor e perece devido aos golpes.
+
+O segundo titã, que deveria investir contra o castelo agora que o caminho está livre, se enfurece com a morte de seu irmão e ataca Ellion com toda a sua fúria. Ellion não resiste aos ataques e está a beira da morte, mas Shrek vem em seu socorro. Com o seu elmo mágico, Shrek aumenta de tamanho e usa uma das pedras flamejantes contr o titã chutando a pedra contra a criatura. A pedra acerta em cheio o joelho do gigante, quebrando sua perna e fazendo a criatura cair morta no campo de batalha. Sem os titãs de cerco derrotados, a moral dos gigantes está abalada, mas um último titã começa a marchar com um grande contingente de gigantes da colina contra a cidade.
+
+<div style="text-align: center">
+  <img 
+    src='http://www.worldofcharun.com/images/thumb/9/91/MountainGiants.jpg/235px-MountainGiants.jpg' 
+    style='width:300px' />
+    <p>Joe e Moe - titãs de cerco</p>
+</div>
+
+
+
+
+
+
+Shrek se posiciona contra eles e é derubado com uma saraivada de pedras. A situação é crítica. Ellion é curado por Hasgard,mas ainda ssim ele está bastante ferido. Shrek está a beira da morte. Apeasr de pouco ferido, Litus não é páreo contra todo o exército gigante. Tudo parece estar perdido. Neste momento, um portal mágico é aberto e uma guarda de guerreiros e magos vermelhos de Thay aparece. Garren Garreth, o líder do conclave do vale da cicatriz vem em auxílio de Lua Alta. Os magos vermelhos fazem chover bolas de fogo e meteoritos pelo campo de batalha. Com o último titã e contigente de gigantes derrotados, os demais gigantes fogem. Os sinos da cidade ecoam com o som de vitória.
+
+<br>
+
+
+
+<br><br>
+
+<div style="text-align: center">
+  <img 
+    src='https://i.imgur.com/u4g5kGY.png' 
+    style='width:350px' />
+    <p>Lua alta foi salva pelos heróis do Vale! </p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+\page
+
+
+## Capítulo 7: Bagheera
+
+Litus e Ellion separadamente saem para emboscar a floresta. Litus primeiro investiga os corpos dos gigantes derrotados e encontra um pequeno poema em um dos titãs. 
+
+
+<div class='descriptive'>
+
+*O Shadraxil, a grande serpente negra! Amaldiçoados sejam os povos dos vales! Amaldiçoados seja Lathander por impedir que sua sombra cubra as terras livres! Amaldiçoado seja Keegan!*
+
+</div>
+
+Em seguida ele segue para a floresta que cerca a cidade de Lua Alta. Ele se esgueira por gigantes errantes que ainda estão nas proximidades da cidade e escuta uma criatura ofegante. Litus se esquiva de um grande felino que passa por ele como um raio negro. Por suas habilidades de caçador, ele é capaz de entender a criatura e escuta ela dizer: *água, ajuda, preciso chegar à Lua Alta a companhia precisa de ajuda!*
+
+
+Litus acalma a criatura e se comunica com ela. O felino é Bagheera, companheiro animal de Jassan, líder dos Wyverns cinzas. Bagheera alerta Litus sobre Shadraxil e que a companhia pereceu lutando contra a criatura. Bagheera também fala como o dragão prendeu um homem e sobre uma arma capaz de restaurar a energia de Lathander. Sua fala é confusa e há pânico nas palavras da pantera. Sem entender plenamente a mensagem do felino, Litus a escolta de volta para a cidade -- com Ellion se juntado a eles no caminho.
+
+## Capítulo 8: Shadraxil e a queda de Lathander
+
+De volta a Lua Alta, um druida é capaz de se comunicar com o felino com mais clareza. Bagheera explica sobre Shadraxil o dragão de sombras. A serpente comanda drows e gigantes e ela foi capaz de realizar um ritual mágico que prendeu o deus do sol em um corpo mortal. Apesar do destino incerto da companhia dos Wyverns cinzas, Baghera foi capaz de escapar e alertar a cidade do vale. 
+
+Os povos do vale também percebem que o sol não nasceu e há um estranho eclipse impedindo que a luz banhe as terras dos vales. Hasgard, sendo um clérigo com Lathander também percebe que sua conexão com o deus está mais fraca e ele não é capaz de recupera todas as suas magias como ele deveria. 
+
+
+<div style="text-align: center">
+  <img 
+    src='https://cdn.vox-cdn.com/thumbor/R40VaFxphXDROQa2HBRLzrw-JcE=/0x0:3888x2592/1200x800/filters:focal(1633x985:2255x1607)/cdn.vox-cdn.com/uploads/chorus_image/image/56124757/shutterstock_692497600.0.jpg' 
+    style='width:320px' />
+    <p>Eclipse mágico</p>
+</div>
+
+Magos, clérigos e sábios se reunem no conselho de guerra de Lua Alta e discutem sobre o relato de Bagheera e os últimos eventos.
+
+
+Após quatro dias de pesquisa. As informações que são passadas aos heróis dos vales são as seguintes. 
+
+* Shadraxil é um dragão de sombras que comanda os drows e gigantes que atacam as terras dos vales. Não se sabe o que ele deseja ou quais são seus planos.
+* Há um eclipse mágico impedindo uma conexão clara com Lathander. Um vento negro vindo dos picos dos trovões castiga a terra dos vales.
+* Uma arma mágica -- Lightbringer - foi construída por Lathander há muito tempo atrás e reza que ela contém parte da centelha divina do deus do sol.
+* A arma foi desmontada e guardada por diferentes facções.
+	* A maça está na tumba de Thoradin, seu último portador
+    * O cabo está num mausoléu construído sob um templo de Lathander no vale da batalha
+    * Não se sabe do paradeiro do símbolo sagrado que faz parte da arma
+* Keegan foi um matador de dragões gue lutou contra Shadraxil eras atrás
+	* Keegan usou uma armadilha mágica para prender o dragão em outro plano
+    * Ele construiu uma fortaleza para proteger a armadilha mágica nos picos dos trovões
+    * Mesmo preso, a influencia do dragão era forte demais e ela enlouqueceu Keegan.
+    * Não há mais notícias sobre Keegan ou o paradeiro da fortaleza e alguns acreditam que isto é apenas uma lenda.
+    
+Com estas informações, os heróis decidem restaurar a arma mágica que pode ser de extrema importância no combate contra o dragão. Eles partem para a tumba de Thoradin.
+
+
+## Capítulo 9: Em busca dos pedaços da Lightbringer
+
+Os heróis solicitam aos sábios e ao conselho de guerra de lua alta que continue buscando informações sobre Shadraxil e como recobrar as energias de Lathander. Eles chegam a tumba de Thoradin após dias de viagem. Por ser um anão, Hasgard sabe que as tumbas de clãs mais importantes estão nos léveis mais baixos da mina.
+
+<div style="text-align: center">
+  <img 
+    src='https://cdnb.artstation.com/p/assets/images/images/000/078/423/large/Mine.jpg?1401088671' 
+    style='width:400px' />
+    <p>Mina anã</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+Enquanto Hasgard explana a estrutura da mina aos demais Ellion percebe passos frescos de gigantes e alerta aos demais. O grupo acelera sua marcha em direção a tumba de Thoradin.
+
+
+Nos níveis inferiores da mina, o grupo encontra um batalhão de gigantes arrombando a entrada da tumba que supostamente é de Thoradin. Eles emboscam os gigantes e entram em combate com as criaturas. Os gigantes de fogo são páreos contra os esforços dos heróis e o seu líder grita comandos enquanto outros gigantes brandem seus martelos de fogo contra os heróis. É um combate extremamente difícil e Hasgard engaja contra dois gigantes piromaníacos equanto Litus protege a retaguarda com saraivadas de flechas. Ellion usa sua espada mágica e com um estrondo empurra os gigantes das passarelas que conectam ilhotas de terra por um rio de lava. Com o caminho livre, Shrek parte para a tumba para impedir que os gigantes que adentraram nela destruam o artefato.
+
+Shrek rende o gigante que havia entrado na tumba e o restante do grupo derrota os demais gigantes. Será que o artefato de Lathander está realmente na tumba? Será esta a tumba verdadeira. Quais informações o gigante que se rendeu pode revelar sobre os planos de Shadraxil? Estas serão cenas dos próximos capítulos.
+
+<div style="text-align: center">
+  <img 
+    src='https://vignette.wikia.nocookie.net/forgottenrealms/images/6/63/Fire_giants.jpg/revision/latest?cb=20110621041257' 
+    style='width:380px' />
+    <p>Gigantes de fogo</p>
+</div>
+
+\page
+
 
 # Regiões e NPCs
 
