@@ -98,7 +98,9 @@ A companhia se divide. Metade do grupo busca uma segunda saída das cavernas e s
 
 Jassan começa a realizar alguns preparativos antes de adentrar no calabouço, mas **Barbarin, o louco** - um anão berseker -- ignora o líder da companhia e se adianta. Uma criatura metade escorpião metade drow se levanta e ataca o anão. Ele é socorrido pelo cavaleiro **Aghamenon** e sua montaria **Pumba**. É um combate feroz em que a companhia tenta penetrar a rígida carapaça da criatura que reage com suas pinças, força descomunal e veneno mortal.
 
-<br>
+O guardião perece gritando que o ritual está quase finalizado.
+
+<br><br><br>
 
 <div style="text-align: center">
   <img 
@@ -107,7 +109,7 @@ Jassan começa a realizar alguns preparativos antes de adentrar no calabouço, m
     <p>Guardião</p>
 </div>
 
-O guardião perece gritando que o ritual está quase finalizado.
+
 
 
 <div class='pageNumber auto'></div>
@@ -365,6 +367,162 @@ Shrek rende o gigante que havia entrado na tumba e o restante do grupo derrota o
     <p>Gigantes de fogo</p>
 </div>
 
+## Capítulo 10: Arcanjo
+
+Hasgard e Osborn investigam a tumba. Eles percebem uma série de runas anãs que quando ativadas incendiam a câmara e trazem a tona um anjo guardião. O anjo questiona os aventureiros acerca de suas intenções e Ellion prova seu valor ao anjo.
+
+<div style="text-align: center">
+  <img 
+    src='https://i.imgur.com/x7tl121.png' 
+    style='width:380px' />
+    <p>Guardião</p>
+</div>
+
+O anjo se despede do grupo e onde antes ele estava, há um dos pedaços da maça - a Lightbringer. Os heróis do vale decidem guardar o pedaço consigo e planejam seus próximos passos.
+
+## Capítulo 11: Caos em Hap
+
+O segundo fragmento da arma está em um templo de Lathander no Vale da Batalha. Os heróis do vale começam a marchar em direção ao vale. Será uma caminhada longa, de vários dias e o tempo é o maior inimigo deles.
+
+Hasgard contacta magicamente lorde Theremen e explica do sucesso do grupo. Theremen fica feliz com as boas notícias, mas explica que os gigantes estão movendo sua fortaleza - o castelo nas nuvens - em direção ao vale da batalha. Com essa notícia, o grupo decide usar um dos itens mágicos que eles adquiriram na tumba dos anões - um elmo de teletransporte.
+
+<div style="text-align: center">
+  <img 
+    src='http://getdrawings.com/image/medieval-village-drawing-58.jpg' 
+    style='width:380px' />
+    <p>Vila de Hap</p>
+</div>
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+
+Por sorte do destino, o item mágico funciona perfeitamente e os heróis são teleportados para o centro da vila de Hap, onde o templo de Lathander se encontra. A pacata cidade de Hap fica impressionada com a chegada do grupo via meios mágicos e antes que possam pensar como reagir Shrek grita: "Gigantes! Gigantes estão vindo atacar a vila de Hap! Vamos se armem amigos!". Do contrário ao esperado por Shrek, a vila entra em puro Caos. Mães correm para salvar suas crianças. Aldeões juntas seus poucos bens e correm para o templo - a construção mais fortificada da cidade. Várias horas se passam até que a situação se acalma e os clérigos do templo conseguem conversar com os heróis. Eles explicam que se há algo na vila, este artefato deve estar nas antigas catacumbas e complexo de túneis selados há eras. O líder do clero aponta a passagem para as catacumbas e assegura que rezará pela segurança dos heróis.
+
+
+## Capítulo 12: As catacumbas de Dracrandos
+
+O grupo adentra as catacumbas. A princípio, as construções seguiam a arquitetura do templo, mas logo elas se misturaram com o complexo de túneis construídos pelo mago que antes dominava a região. Não bastasse o complexo de túneis, as catacumbas se misturam com o esgoto da vila e os túneis são úmidos e estreitos.
+
+Um grupo de homens répteis tenta emboscar os heróis, mas sem sucesso. Uma batalha rápida e claramente a favor dos heróis se sucede e os homens répteis são derrotados. Os heróis seguem pelos esgotos e chegam na entrada do que parece ser um antigo mausoleu. Será que o segundo fragmento da Lightbringer está nestas ruínas?
+
+<div style="text-align: center">
+  <img 
+    src='https://i.neoseeker.com/ca/guild_wars_2_conceptart_RoUeu.jpg' 
+    style='width:380px' />
+    <p>Catacumbas</p>
+</div>
+
+## Capítulo 13: As garras e presas de um Wyvern ferido
+
+Enquanto os heróis seguem em busca dos fragmentos da Lightbringer para tentar resgatar o poder divino de Lathander - que está preso em um corpo mortal devido às maquinações de Shadraxil - a companhia dos Wyverns cinzas tenta se recompor após o ataque da criatura. 
+
+Os sobreviventes se reunem no sopé dos picos trovejantes e fazem um silencioso retorno para a cidade de Lua Alta. As habilidades de rastreio de Dipnlik e a devoção de Solano fazem com que o grupo consiga despistar escoltas gigantes e chegar a Lua Alta em segurança. Na cidade, eles atualizam lorde Theremen dos acontecimentos e por sua vez, Theremen atualiza a companhia sobre a busca pela Lightbringer. Em especial, Theremen divide com a comapnhia uma de suas maiores preocupações:
+
+"A fortaleza das nuvens está indo em direção ao vale da batalha e sem meios mágicos, os heróis não terão como derrubar a fortaleza. Até onde sabemos, não temos como atacá-los e por mais que derrotemos a mior parte do contigente deles, eles poderão se refugiar na fortaleza e chover uma tempestade de relâmpagos e pedras sobre as cidades do vale. Felizmente, o **Vale Alto** é um forte aliado. Eles estão reclusos nas montanhas e guardam a passagem entra a terra dos vales e o reino de Cormyr com o seu contigente de mercenários montados em pegasus e grifos. É hora de pedirmos socorro. Vão ao castelo alto e requisitem reforços. Solicitem que um contigente de pegasus ou grifos seja enviado ao vale da batalha, assim poderemos contra-atacar os gigantes e atacar o seu castelo.".
+
+Com a nova missão em mãos, Jassan deixa DipnLik encarregado de ir ao vale alto e ele diz que contactará os demais membros sobreviventes da companhia nesse meio tempo. Além disso, ele ficará em lua alta para recrutar novos membros e tentar coordenar os esforços contra Shadraxil. Para reforçar o contingente de aventureiros enviados na missão, uma antiga aliada dos heróis dos vales se junta à companhia ninguem mais ninguem menos que a druida das campinas **Elix**. DipnLik, Shar, Shruk, Solano e Elix parte para o vale alto.
+
+Enquanto isto, a bruxa advinha - Elyn Hawe - continua sua busca pelo terceiro pedaço da Lightbringer. Com sorte, as terras dos vales conseguirão contra-atacar o dragão e suas tropas.
+
+<br><br><br>
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/564x/1f/bb/64/1fbb64042f440e5d6edd9224b004ef5b.jpg' 
+    style='width:225px' />
+    <p>Elyn Hawe</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+## Capítulo 14: Sombra nos céus
+
+<div style="text-align: center">
+  <img 
+    src='https://vignette2.wikia.nocookie.net/rsroleplay/images/5/52/Rocky_mountain.jpg/revision/latest?cb=20130607195208' 
+    style='width:355px' />
+    <p>Passagem para o Vale Alto</p>
+</div>
+
+A companhia dos Wyverns cinzas segue a cavalo para a cidade do Castelo Alto - capital do vale Alto. Eles forçam os seus cavalos a seguirem num ritmo acelerado. O cúe segue negro e sem luz. O eclipse continua bloqueando o sol que brilha cada vez mais fraco. Os cavalos seguem em marcha pesada e os cavaleiros sentem a respiração dos animais - ofegante e amedrontada ao mesmo tempo.
+
+DipnLik é o primeiro a perceber o motivo. Emergindo do céu negro Shadraxil voa em direção ao vale Alto. A companhia tenta apressar ainda mais o passo, mas o dragão percebe os aventureiros e começa a mudar de tragetória para interceptá-los. DipnLik conjura uma magia que envolve ele e seus aliados em uma névoa obscurecente e Solano encontra um túnel que pode abrigá-los e protegê-los da criatura. Eles tentam se esconder no túnel.
+
+Os cascos dos cavalos castigam o chão e eles relincham de medo quando o chão vibra com o pouso do dragão. Shadraxil grita: não sejam medrosos, vamos jogar um pequeno jogo aventureiros. Percebam, eu não quero destruir todos os vales. Eu quero conquistá-los. Se vocês derrubarem meus serviçais, eu pouparei o vale Alto. Com um sorriso malicioso o dragão sopra trevas no túnel errando propositalmente a companhia. Das trevas, sombras e espectros emergem e a companhia não vê outra saída se não lutar contra as criaturas.
+
+<div style="text-align: center">
+  <img 
+    src='https://scontent-lht6-1.cdninstagram.com/vp/cf0986a591b4c31e87592c47315ba1fc/5B6354F6/t51.2885-15/e35/29416847_2058521214416984_2123325629486071808_n.jpg?se=7&ig_cache_key=MTc1MTI2NjIxMDM4Mjg4NDE2NA%3D%3D.2' 
+    style='width:290px' />
+    <p>Shadraxil barganha com a companhia dos Wyverns cinzas</p>
+</div>
+
+## Capítulo 15: Barbarin, o corrompido
+
+A primeira leva de espectros é derrotada e a companhia procura uma rota de fuga. DipnLik vê uma caverna que pode ser um bom refúgio, mas ao examiná-la com amis atenção, ele vê mais espectros nas sombras da caverna. Ainda pior, uma figura bastante familiar começa a sair da caverna em direção ao grupo - Barbarin! Barbarin foi o último membro da companhia a ficar de pé contra o dragão e, reconhecendo o seu valor, Shadraxil o corrompeu e o transformou em um de seus generais.
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/736x/3d/d5/0b/3dd50b42ccc5aadafc2be9f2bc32cd6a--fantasy-rpg-warhammer-fantasy.jpg' 
+    style='width:355px' />
+    <p>Barbarin</p>
+</div>
+
+Solano vê um caminho íngrime pelo sopé da montanha que pode ser uma rota de fuga. Ele guia o restante da companhia pelo estreito desfiladeiro enquanto Barbarin segue no encalço do grupo. Por estarem em um terreno mais alto, a companhia consegue desferir várias flechas e também lançar pedras no bárbaro. Entretanto, a magia de Shadraxil o tornou mais forte e resistente. Ele salta e encurrala o grupo. Um combate contra os seus antigos amigos é inevitável.
+
+
+## Capítulo 15: Barbarin, o renascido
+
+Solano toma a frente do grupo e se interpõe entre Barbarin e DipnLik e Helix. Barbarin o ataca sem piedade. Mesmo o clérigo da guerra não é capaz de segurar a força inumana do bárbaro. Enquanto isto, DipnLik atira flechas de seu arco mágigo e Elix usa magias para melhorar a pontaria do halfling.
+
+Solano cai após resistir por algum tempo aos golpes do bárbaro. Ele engaja em corpo a corpo com a druida e o halfling arqueiro. Elix usa sua magias para curar Solano.
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+No corpo a corpo, DipnLik tem dificuldades de mirar seu arco e Elix é frágil. Ele conjura uma espada de chamas para tentar atacá-lo, mas seus golpes não são certeiros e as habilidades marciais do bárbaro são superiores às da druida. Golpes certeiros de Barbarin derrubam DipnLik e Elix e agora resta Solano. Solano conjura chamas sagradas que acertam em cheio o bárbaro. O clérigo usa o poder divino de sua divindade - Torm - e tenta purificar o seu amigo corrompido. As chamas se intensificam e onde havia um ser de sombras e trevas, há agora um bárbaro bastante ferido. Barbarin pede desculpas por seus atos e a companhia dos Wyverns ficam mais do que gratos pelo "renascimento" de seu amigo.
+
+## Capítulo 16: O fim do Vale Alto
+
+A companhia finalmente chega ao castelo alto. Ao invés de encontrar uma cidade reclusa e protegida, eles veem chamas e destruição. Shadraxil estava apenas brincando com os sentimentos dos heróis e queimou toda a cidade com suas chamas negras.
+
+
+<div style="text-align: center">
+  <img 
+    src='https://awoiaf.westeros.org/images/9/91/Fall_of_harrenhal_by_reneaigner.jpg' 
+    style='width:355px' />
+    <p>Shadraxil ataca a cidade de Castelo Alto</p>
+</div>
+
+
+Felizmente, a companhia consegue achar alguns grifos que foram capazes de fugir do ataque do dragão. Elix e DipnLik usam seus conhecimentos da natureza e acalmam as criaturas assim como curam os seus ferimentos. Com um pequeno rebanho de grifos como montaria, a companhia dos Wyverns cinzas voa para Lua Alta e se prepara para contra-atacar os exércitos de Shadraxil!
+
+<div style="text-align: center">
+  <img 
+    src='https://i.imgur.com/WcKqAc0.png' 
+    style='width:300px' />
+    <p>Grifos</p>
+</div>
+
 \page
 
 
@@ -423,7 +581,7 @@ ___
 * **Shrak** - Meio-orc bárbaro frenezy berseker
 * **Shruk** - Meio-orc guerreiro campeão
 * **Alberich Ironfist** - Anão ranger caçador
-* **Solona Muchbeer** - Humano clérigo da cura
+* **Solono Muchbeer** - Humano clérigo da guerra
 * **DipnLik** - Halfling ranger caçador
 * **Barbarin - o louco** - Anão bárbaro frenezy berseker
 * *   Barbarin o negro - Sombra maior
