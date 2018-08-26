@@ -56,17 +56,17 @@ Os nossos esforços no final destroem sua fortificação, mas descobrimos que ha
 
 <img 
   src='https://i.pinimg.com/originals/d1/1a/3b/d11a3bb84aa8291dce6e28b6f35133dd.jpg' 
-  style='position:absolute;bottom:0px;right:-80px;width:500px;mix-blend-mode:multiply'/>
+  style='position:absolute;bottom:50px;right:-80px;width:500px;mix-blend-mode:multiply'/>
   
   
 <img 
   src='https://i.pinimg.com/originals/21/fd/bf/21fdbf7fece5c13d54bd8cbc514a2131.jpg' 
-  style='position:absolute;bottom:100px;right:300px;width:100px;mix-blend-mode:multiply'/>
+  style='position:absolute;bottom:150px;right:300px;width:100px;mix-blend-mode:multiply'/>
   
   
 <img 
   src='http://www.enworld.org/forum/attachment.php?attachmentid=96037&d=1522930037' 
-  style='position:absolute;bottom:50px;right:400px;width:100px;mix-blend-mode:multiply'/>  
+  style='position:absolute;bottom:300px;right:250px;width:100px;mix-blend-mode:multiply'/>  
 
 
 

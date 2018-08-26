@@ -60,12 +60,6 @@ Resta aos heróis dos vales defender a capital do vale profundo contra Gurllang 
 ## Capítulo 1: Os Wyvern Cinzas
 
 
-A companhia dos Wyvern cinzas chega ao sopé do acampamento gigante eles precisam obter informações sobre o ataque gigante. Quem são os líderes dos gigantes? Quantos são? Que tipo de ritual está sendo executado no covil das criaturas. Estas informações ajudarão lorde Theremen a decidir um curso de ação para lidar com a amaeaça. 
-
-
-O acampamento gigante é no sopé de uma colina que contém uma enorme caverna. No topo da colina, ruínas de um templo se erguem e projetam suas sombras sobre o acampamento. Ogros e Ettins - criaturas de duas cabeças - patrulham a região.
-
-
 <div style="text-align: center">
   <img 
     src='https://orig00.deviantart.net/66cb/f/2011/257/8/d/mountain_by_lyno3ghe-d49tj5p.jpg' 
@@ -73,8 +67,15 @@ O acampamento gigante é no sopé de uma colina que contém uma enorme caverna. 
     <p>Picos Trovejantes</p>
 </div>
 
-**Jassan**, mestre de bestas e líder da companhia comanda **Lindon** -- um Tabaxi ladino -- e **Alberich** -- um anão caçador -- para que eles - no papel de batedores - tracem um perímetro do acampamento e descubra como adentrar o covil. A tarefa é executada de forma excepcional. Lindon descobre que no topo do covil há dois drows guardando as escadarias que vão para os calabouços do templo. Alberich descobre que as cavernas são bem iluminadas e que aranhas gigantes guardam as cavernas. Ambos estão desconsertados pela presença dessas criaturas no acampamento gigante.
 
+A companhia dos Wyvern cinzas chega ao sopé do acampamento gigante eles precisam obter informações sobre o ataque gigante. Quem são os líderes dos gigantes? Quantos são? Que tipo de ritual está sendo executado no covil das criaturas. Estas informações ajudarão lorde Theremen a decidir um curso de ação para lidar com a amaeaça. 
+
+
+O acampamento gigante é no sopé de uma colina que contém uma enorme caverna. No topo da colina, ruínas de um templo se erguem e projetam suas sombras sobre o acampamento. Ogros e Ettins - criaturas de duas cabeças - patrulham a região.
+
+
+
+**Jassan**, mestre de bestas e líder da companhia comanda **Lindon** -- um Tabaxi ladino -- e **Alberich** -- um anão caçador -- para que eles - no papel de batedores - tracem um perímetro do acampamento e descubra como adentrar o covil. A tarefa é executada de forma excepcional. Lindon descobre que no topo do covil há dois drows guardando as escadarias que vão para os calabouços do templo. Alberich descobre que as cavernas são bem iluminadas e que aranhas gigantes guardam as cavernas. Ambos estão desconsertados pela presença dessas criaturas no acampamento gigante.
 
 
 <div style="text-align: center">
@@ -84,10 +85,16 @@ O acampamento gigante é no sopé de uma colina que contém uma enorme caverna. 
     <p>Acampamento</p>
 </div>
 
+
 Enquanto os batedores obtém informações, **Shrak** e **Shruk** -- dois irmãos meio-orcs -- discutem impacientemente. Eles querem apenas invadir o acampamento e descer o "cacete" nos ogros e gigantes. Jassan direciona o problema para **Dipnlik** -- um halfling batedor -- que está acostumado com as burrices dos irmãos e ignorantemente manda todos "tomarem no cú". Os irmãos se intimidam com a bravura do pequeno.
 
 
-Os batedores retornam e um plano é tracado.
+
+
+Os batedores retornam e um plano é traçaado.
+
+
+
 
 ## Capítulo 2: O covil
 
@@ -360,23 +367,20 @@ Nos níveis inferiores da mina, o grupo encontra um batalhão de gigantes arromb
 
 Shrek rende o gigante que havia entrado na tumba e o restante do grupo derrota os demais gigantes. Será que o artefato de Lathander está realmente na tumba? Será esta a tumba verdadeira. Quais informações o gigante que se rendeu pode revelar sobre os planos de Shadraxil? Estas serão cenas dos próximos capítulos.
 
+<br><br><br><br>
+
 <div style="text-align: center">
   <img 
-    src='https://vignette.wikia.nocookie.net/forgottenrealms/images/6/63/Fire_giants.jpg/revision/latest?cb=20110621041257' 
-    style='width:380px' />
+    src='https://i.pinimg.com/originals/e3/10/ca/e310ca79ef18acaf1c278d9dd86d753f.jpg' 
+    style='width:300px' />
     <p>Gigantes de fogo</p>
 </div>
+
+<br><br>
 
 ## Capítulo 10: Arcanjo
 
 Hasgard e Osborn investigam a tumba. Eles percebem uma série de runas anãs que quando ativadas incendiam a câmara e trazem a tona um anjo guardião. O anjo questiona os aventureiros acerca de suas intenções e Ellion prova seu valor ao anjo.
-
-<div style="text-align: center">
-  <img 
-    src='https://i.imgur.com/x7tl121.png' 
-    style='width:380px' />
-    <p>Guardião</p>
-</div>
 
 O anjo se despede do grupo e onde antes ele estava, há um dos pedaços da maça - a Lightbringer. Os heróis do vale decidem guardar o pedaço consigo e planejam seus próximos passos.
 
@@ -386,13 +390,19 @@ O segundo fragmento da arma está em um templo de Lathander no Vale da Batalha. 
 
 Hasgard contacta magicamente lorde Theremen e explica do sucesso do grupo. Theremen fica feliz com as boas notícias, mas explica que os gigantes estão movendo sua fortaleza - o castelo nas nuvens - em direção ao vale da batalha. Com essa notícia, o grupo decide usar um dos itens mágicos que eles adquiriram na tumba dos anões - um elmo de teletransporte.
 
+
+
+
+
+Por sorte do destino, o item mágico funciona perfeitamente e os heróis são teleportados para o centro da vila de Hap, onde o templo de Lathander se encontra. A pacata cidade de Hap fica impressionada com a chegada do grupo via meios mágicos e antes que possam pensar como reagir Shrek grita: "Gigantes! Gigantes estão vindo atacar a vila de Hap! Vamos se armem amigos!". Do contrário ao esperado por Shrek, a vila entra em puro Caos. Mães correm para salvar suas crianças. Aldeões juntas seus poucos bens e correm para o templo - a construção mais fortificada da cidade. Várias horas se passam até que a situação se acalma e os clérigos do templo conseguem conversar com os heróis. Eles explicam que se há algo na vila, este artefato deve estar nas antigas catacumbas e complexo de túneis selados há eras. O líder do clero aponta a passagem para as catacumbas e assegura que rezará pela segurança dos heróis.
+
+
 <div style="text-align: center">
   <img 
     src='http://getdrawings.com/image/medieval-village-drawing-58.jpg' 
-    style='width:380px' />
+    style='width:400px' />
     <p>Vila de Hap</p>
 </div>
-
 
 
 <div class='pageNumber auto'></div>
@@ -401,9 +411,6 @@ Hasgard contacta magicamente lorde Theremen e explica do sucesso do grupo. There
 
 \page
 
-
-
-Por sorte do destino, o item mágico funciona perfeitamente e os heróis são teleportados para o centro da vila de Hap, onde o templo de Lathander se encontra. A pacata cidade de Hap fica impressionada com a chegada do grupo via meios mágicos e antes que possam pensar como reagir Shrek grita: "Gigantes! Gigantes estão vindo atacar a vila de Hap! Vamos se armem amigos!". Do contrário ao esperado por Shrek, a vila entra em puro Caos. Mães correm para salvar suas crianças. Aldeões juntas seus poucos bens e correm para o templo - a construção mais fortificada da cidade. Várias horas se passam até que a situação se acalma e os clérigos do templo conseguem conversar com os heróis. Eles explicam que se há algo na vila, este artefato deve estar nas antigas catacumbas e complexo de túneis selados há eras. O líder do clero aponta a passagem para as catacumbas e assegura que rezará pela segurança dos heróis.
 
 
 ## Capítulo 12: As catacumbas de Dracrandos
@@ -463,24 +470,24 @@ DipnLik é o primeiro a perceber o motivo. Emergindo do céu negro Shadraxil voa
 
 Os cascos dos cavalos castigam o chão e eles relincham de medo quando o chão vibra com o pouso do dragão. Shadraxil grita: não sejam medrosos, vamos jogar um pequeno jogo aventureiros. Percebam, eu não quero destruir todos os vales. Eu quero conquistá-los. Se vocês derrubarem meus serviçais, eu pouparei o vale Alto. Com um sorriso malicioso o dragão sopra trevas no túnel errando propositalmente a companhia. Das trevas, sombras e espectros emergem e a companhia não vê outra saída se não lutar contra as criaturas.
 
+<br><br>
+
 <div style="text-align: center">
   <img 
-    src='https://scontent-lht6-1.cdninstagram.com/vp/cf0986a591b4c31e87592c47315ba1fc/5B6354F6/t51.2885-15/e35/29416847_2058521214416984_2123325629486071808_n.jpg?se=7&ig_cache_key=MTc1MTI2NjIxMDM4Mjg4NDE2NA%3D%3D.2' 
-    style='width:290px' />
+    src='https://i.imgur.com/mT45Gmb.png' 
+    style='width:300px' />
     <p>Shadraxil barganha com a companhia dos Wyverns cinzas</p>
 </div>
+
+
+
 
 ## Capítulo 15: Barbarin, o corrompido
 
 A primeira leva de espectros é derrotada e a companhia procura uma rota de fuga. DipnLik vê uma caverna que pode ser um bom refúgio, mas ao examiná-la com amis atenção, ele vê mais espectros nas sombras da caverna. Ainda pior, uma figura bastante familiar começa a sair da caverna em direção ao grupo - Barbarin! Barbarin foi o último membro da companhia a ficar de pé contra o dragão e, reconhecendo o seu valor, Shadraxil o corrompeu e o transformou em um de seus generais.
 
 
-<div style="text-align: center">
-  <img 
-    src='https://i.pinimg.com/736x/3d/d5/0b/3dd50b42ccc5aadafc2be9f2bc32cd6a--fantasy-rpg-warhammer-fantasy.jpg' 
-    style='width:355px' />
-    <p>Barbarin</p>
-</div>
+
 
 Solano vê um caminho íngrime pelo sopé da montanha que pode ser uma rota de fuga. Ele guia o restante da companhia pelo estreito desfiladeiro enquanto Barbarin segue no encalço do grupo. Por estarem em um terreno mais alto, a companhia consegue desferir várias flechas e também lançar pedras no bárbaro. Entretanto, a magia de Shadraxil o tornou mais forte e resistente. Ele salta e encurrala o grupo. Um combate contra os seus antigos amigos é inevitável.
 
@@ -490,6 +497,13 @@ Solano vê um caminho íngrime pelo sopé da montanha que pode ser uma rota de f
 Solano toma a frente do grupo e se interpõe entre Barbarin e DipnLik e Helix. Barbarin o ataca sem piedade. Mesmo o clérigo da guerra não é capaz de segurar a força inumana do bárbaro. Enquanto isto, DipnLik atira flechas de seu arco mágigo e Elix usa magias para melhorar a pontaria do halfling.
 
 Solano cai após resistir por algum tempo aos golpes do bárbaro. Ele engaja em corpo a corpo com a druida e o halfling arqueiro. Elix usa sua magias para curar Solano.
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/736x/3d/d5/0b/3dd50b42ccc5aadafc2be9f2bc32cd6a--fantasy-rpg-warhammer-fantasy.jpg' 
+    style='width:355px' />
+    <p>Barbarin</p>
+</div>
 
 
 <div class='pageNumber auto'></div>
@@ -516,12 +530,168 @@ A companhia finalmente chega ao castelo alto. Ao invés de encontrar uma cidade 
 
 Felizmente, a companhia consegue achar alguns grifos que foram capazes de fugir do ataque do dragão. Elix e DipnLik usam seus conhecimentos da natureza e acalmam as criaturas assim como curam os seus ferimentos. Com um pequeno rebanho de grifos como montaria, a companhia dos Wyverns cinzas voa para Lua Alta e se prepara para contra-atacar os exércitos de Shadraxil!
 
+
+## Capítulo 17: Investida Drow
+
+Enquanto a companhia dos Wyverns cinzas realizava sua missão no Vale Alto, os heróis do vale contiuam a explorar as catacumbas de Dracrandos. Eles passam pelos esgotos e chegam em uma região onde as construções urbanas se mesclam as antigas catacumbas. Litus e Osborn decidem se esgueirar pelas sombras enquanto Shrek e Ellion ficam para trás esperando que os batedores do grupo tenham alguma ideia de onde eles estão adentrando.
+
+
 <div style="text-align: center">
   <img 
     src='https://i.imgur.com/WcKqAc0.png' 
     style='width:300px' />
     <p>Grifos</p>
 </div>
+
+<br><br><br>
+
+Ao avançar, Osborn e Litus veem um portal e de dentro deste portal, drows emergem! A mando de Shadraxil, eles vieram roubar o pedaço da lightbringer que está guardado na tumba. Osborn e Litus escutam o plano dos drows e, ao invés de retornar e alertar os demais, eles decidem atacar furtivamente. Enquanto Litus se esgueira para uma posição vantajosa, sua sede por combate o descuidou das armadilhas e perigos da tumba e ele acaba ativando um dos mecanismos de defesa da tumba.
+
+
+O descuido de Litus revela sua posição e a líder dos drows, uma clériga da deusa Aranha Loth, comanda que os seus subalternos façam uma linha de defesa enquanto o mago drow adentra na tumba e rouba o artefato.
+
+
+<br><br><br><br>
+
+<div style="text-align: center">
+  <img 
+    src='https://sensdeladigression.files.wordpress.com/2016/01/dungeon_and_dragon_5-drows.jpg' 
+    style='width:380px' />
+    <p>Drows</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/originals/47/62/23/476223532c08e874ee45748e153c48b4.jpg' 
+    style='width:300px' />
+    <p>Armadilha - Névoa Ácida/Venenosa</p>
+</div>
+
+
+Felizmente, o barulho da armadilha alerta Ellion e Shrek que correm em direção aos demais. Os guerreiros drows fazem uma parede de escudos e Litus tenta recuar mas a névoa ácida é densa e o coloca a beira da morte. Osborn no entanto, usa sua braçadeira mágica e, estando invisível, começa a se esgueirar pela tumba e desviar dos drows que focam sua atenção em Litus.
+
+
+Shrek e Ellion chegam no combate e conseguem derrubar os guerreiros. Shrek também consegue destruir alguns dos dutos que estavam injetando a névoa na câmara e com isso, ele consegue ganhar tempo para que Osborn consiga desarmar a armadilha. Além da névoa ácida, a armadilha possui um efeito aleatório onde algumas das estátuas da câmara disparam raios mágicos ou efeitos secundários em pessoas próximas delas. Por sorte do destino ou bênção de Tymora, os efeitos secundários atingem o mago que estava tentando roubar o artefato. Osborn vê o mago drow ser atingido por duas colunas de chamas e ser reduzido a cinzas.
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+A clériga drow também não consegue repelir os esforços conjuntos do grupo e perece. Os heróis desativam a armadilha e vasculham a tumba. O segundo pedaço da lightbringer é encontrado e recuperado. A arma capaz de derrotar o dragão de sombras está cada vez mais próxima de ser reconstruída.
+
+## Capítulo 18: Prelúdio da Batalha de tempus
+
+Ao sair das catacumbas, os heróis encontram a pacata vila de Hap praticamente abandonada. Os gigantes que estavam vindo atacar a cidade haviam acuado as pessoas do vilarejo no templo da cidade. Entretanto, os clérigos de Tempus que residiam no templo próxima a cidade vieram no auxílio deles.
+
+Afugentando os gigantes, os clérigos ajudaram a evacuar a cidade. Os aldeões fugiram para as muralhas do templo de Tempus. Uma vez que Tempus é o deus da guerra, o seu templo na verdade é uma pequena fortaleza guarnecida o suficiente para resistir as investidas dos gigantes.
+
+Com a vila deserta os heróis encontram um mensageiro que esperava o grupo com meia dúzia de cavalos. O mensageiro repassa a mensagem de que apesar dos clérigos terem sua fortaleza, eles precisam do auxílio dos heróis para repelir o castelo nas nuvens -- a fortaleza móvel dos gigantes -- que está em curso de colisão com o templo.
+
+Montando nos cavalos, os heróis cavalgam em direção ao templo. No horizonte, é possível ver o castelo indo em direção ao templo. Com sua visão apurada, Shrek também observa gigantes atirando pedras das muralhas do castelo. Ele também vê que alguns dos gigantes estão montados em pequenos dragões de sombras que circundam o castelo. Relâmpagos queimam as plantações humanas enquanto propulsionam o castelo na direção do templo. 
+
+<br>
+
+Uma batalha formidável está prestes a acontecer. O deus da guerra -- Tempus -- se regozija em seu plano divino. Há tempos os seus servos não são colocados a prova e ele observa de perto como a batalha se desenvolverá.
+
+
+<img src='https://i.imgur.com/opprZaV.png' style='position:absolute;bottom:80px;right:150px;width:500px' />
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+## Capítulo 19: Batalha no templo de tempus
+
+O vento gélido corta a tensão dos heróis e clérigos de tempus posicionados nas muralhas da fortaleza. O eclipse mágico corta parte da visibilidade, mas não muito distante é possível ver os gigantes de gelo se aproximando do templo. Eles estão montados em dragonetes de sombras, provavelmente crias de Shadraxil. Junto deles, uma estranha nevasca navega pelo ar tão compacta que ele poderia ter forma ou mesmo ser uma criatura.
+
+Aos gritos de Shrek, Litus, Ellion e Osborn, os clérigos começam a atirar setas das pesadas balestras do castelo. Os heróis ordenam que eles foquem seus esforços em derrubar uma das montarias e, com isso, um dos dragonetes caí morto na torre esquerda da fortaleza. Os gigantes de gelo começam a atirar javelins feitas puramente de gelo nos heróis. A nevasca toma forma e um titã de gelo desafia os heróis.
+
+
+
+Osborn é o primeiro a engajar o titã, mas após receber um golpe de seu machado ele recua e busca se esgueirar pelas muralhas para atacá-lo de forma furtiva. Ellion engaja com dois dos gigantes de gelo e suas montarias. Devido ao seu posicionamento, é difícil ele percorrer as muralhas do castelo e correr em auxílio de Osborn.
+
+Por sua vez, Shrek entre em fúria e salta pelas torres e muralhas do castelo engajando o titã. Não bastasse sua fúria, ele usa seu elmo mágico e aumenta de tamanho combatendo o titã de igual para igual. 
+
+
+<div style="text-align: center">
+  <img 
+    src='http://dnd.wizards.com/sites/default/files/media/images/Frost-Giant-4E-full.png' 
+    style='width:350px' />
+    <p>Titã de Gelo</p>
+</div>
+
+<div style="text-align: center">
+  <img 
+    src='https://i.ytimg.com/vi/Z1s3cIJDup0/maxresdefault.jpg' 
+    style='width:350px' />
+    <p>A companhia dos Wyverns Cinzas em suas montarias aladas</p>
+</div>
+
+
+Mesmo com Shrek, os heróis estão em menor número e parece uma batalha perdida. Entretanto, a companhia dos Wyverns cinzas que havia recuperado so grifos para atacar o castelo chega em seu auxílio. Pulando de suas montarias, os mercenários combatem os gigantes e viram a maré da batalha.
+
+
+
+
+
+Os furiosos golpes de Shrek conectam no titã de gelo e sua pele cristalina racha a cada martelada da arma de Shrek - princesa. Num intimidador golpe final, princesa estilhaça o titã e absorve parte de sua energia mágica - agora emitindo uma aura gélida e ameaçadora.
+
+Os heróis saem triunfantes da Batalha do Templo de Tempus.
+
+## Capítulo 20: Solano o escolhido de tempus
+
+Durante toda a batalha, vários dos clérigos de tempus morreram contra os gigantes e o capitão/alto clérigo da fortaleza não estava no campo de batalha.
+
+Shrek confrontou o sumiço do capitão e disse que ele era uma vergonha para o deus da guerra. Feliz com o resultado da batalha e, de fato, insatisfeito com a postura de seu servo, Tempus falou com os sobreviventes da batalha, dizendo:
+
+
+<div class='descriptive'>
+
+*Capitão! Você é uma vergonha para os seus subalternos! Você não deveria brandir armas e sim enxadas, elas o servem melhor. Eu Tempus reinvindico seu poder de entrar em comunhão comigo, de hoje em diante você não será nada mais que um camponês!*
+
+*Solano - clérigo de Tempus - e membro da companhia dos Wyverns cinzas. Eu vi você arriscando sua vida no campo de batalha. Eu vi diversas provações pelas quais você passou e como elas moldaram seu caráter assim como o martelo de um ferreiro castiga uma espada antes dela estar pronta para a batalha.*
+
+*Eu Tempus o abençoo. De hoje em diante, serás meu escolhido nos planos mortais! Vá e grite meu nome nas batalhas que virão!*
+
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+## Capítulo 21: Ataque ao castelo nas nuvens
+
+A companhia dos Wyverns deixa os heróis e se encarrega de proteger o templo de Tempus enquanto os heróis se preparam para atacar a fortaleza dos gigantes - o castelo das nuvens.
+
+Apesar do último combate ter custado quase todos os recursos dos heróis, a benção de Tempus curou as feridas do grupo e os reenergizou para mais uma batalha. Quais perigos esperam o grupo dentro do castelo?
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/564x/af/88/43/af884360c7e7c92cf6e3242848b08950.jpg' 
+    style='width:350px' />
+    <p>Castelo nas Nuvens</p>
+</div>
+
+
+## Capítulo 22
+
+## Capítulo 23
 
 \page
 
