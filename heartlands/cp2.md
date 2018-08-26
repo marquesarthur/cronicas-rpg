@@ -106,7 +106,7 @@ Chegando na fazenda encontramos Evandur desacordado. Após tratar suas feridas, 
 
 <img 
   src='https://vignette.wikia.nocookie.net/leagueoflegends/images/b/b1/320b14f35c23c6109bb6e06cafdb644e.jpg/revision/latest?cb=20170322110749' 
-  style='position:absolute;top:575px;left:-50px;width:1000px;mix-blend-mode:multiply'/>
+  style='position:absolute;top:675px;left:100px;width:600px;mix-blend-mode:multiply'/>
 
   
 <img 
