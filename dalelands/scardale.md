@@ -62,7 +62,7 @@ Stormsilverhad revela que uma antiga **profecia** diz que se um herdeiro de Aume
 O conselho dos escudos discute ameaças comuns as terras dos vales e como os vales responderão a elas. No conselho do escudo deste ano, dentre os lordes e comitivas presentes, destacam-se:
 
 
-<div class='pageNumber'>1</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -98,7 +98,7 @@ Uma vez que o conselho decide ajudar o vale da cicatriz, o grupo é encubido de 
 No dia seguinte, o grupo parte para o penhasco de Corellon. O penhasco é gigante, com várias cachoeiras e pequenos lagos entre as suas duas bordas. No primeiro dia, o grupo segue se guiando por uma das bordas, mas no segundo dia um lago com forte correnteza força o grupo a seguir pelo meio do penhasco. A chuva constante começa a encharcar as castigadas botas de viagem dos aventureiros.
 
 
-<div class='pageNumber'>2</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 
@@ -176,7 +176,7 @@ Lathander fala diretamente com seu clérigo e o instrui que esta é a última ce
     <p>Cerejeira</p>
 </div>
 
-<div class='pageNumber'>3</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -219,7 +219,7 @@ Em um surto de adrenalina, o grupo começa a atacar o largato que passa a ignor�
 
 Os inimigos caem. A tempestade pára. E Corellon reconhece o esforço dos aventureiros, assim concedendo a eles os fragmentos de sua espada necessários para o ritual que pode acabar com a maldição no vale da cicatriz.
 
-<div class='pageNumber'>4</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 
@@ -280,7 +280,7 @@ Após duas semanas, Hagar diz ao grupo que a dívida deles está paga e que os d
 | Zenthil Keep | Hanflings | Monges | Sembia | Magos Vermelhos |
 </div>
 
-<div class='pageNumber'>5</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
  \page
@@ -325,7 +325,7 @@ Apesar de vitoriosos, **Shrek** perde sua armadura no combate e seu martelo - ap
 Finalmente dentro do castelo, o grupo se vê num úmido corredor. Aparentemente, eles estão nas criptas do castelo onde os antepassados da família de Aumesair descansa. **Osborn** toma a frente do grupo e começa a investigar a cripta, que se estende por um amplo corredor adornado por estátuas de minotauros esculpidas em bronze.
 
 
-<div class='pageNumber'>6</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -369,7 +369,7 @@ Por alguns minutos, o guardão se entrertem com **Shrek** mas perde a paciência
     <p>Golens de carne</p>
 </div>
 
-<div class='pageNumber'>7</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -413,7 +413,7 @@ Agora cabe ao grupo reaver o medalhão, entrar no forte de Zenthil e restaurar a
 
 **Hasgard** e **Ellion** decidem que a melhor estratégia para recuperar o medalhão é com a ajuda dos magos vermelhos de Thay. Os dois seguem para o conclave dos magos e são apresentados a **Garren Garreth** arquimago que comanda o enclave de Scardeep. Hasgard percebe que os magos são mais poderosos do que aparentam e eles tem o controle de outra facção, os corvos prateados. Negociando a entrega da chave, os magos aceitam ajudar o grupo com uma embarcação mágica e tripulação para navegar pelo mar das estrelas. Em troca, o comércio de itens mágicos na cidade não deve ser atrapalhado.
 
-<div class='pageNumber'>8</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -452,7 +452,7 @@ O grupo recupera o medalhão e também um baú contendo moedas, jóias e ao meno
   <img 
     src='https://vignette.wikia.nocookie.net/dogs-of-war/images/a/a7/Ocean_sea_fish_fantasy_art_sharks_artwork_dolphins_temple_underwater_1920x1200_wallpaper_Hig.jpg/revision/latest/scale-to-width-down/2000?cb=20151016074528' 
     style='width:350px' />
-    <p>Pérola Negra</p>
+    <p>Fundo do mar</p>
 </div>
 
 
@@ -464,7 +464,7 @@ Em uma manobra arriscada, **Ol'o'dun** entra em contato com o seu patrono arcano
 
 Todos chegam são e salvos a superfície. Atordoados eles não tem ideia de quem ou o que os atacou. Ainda assim, **Ellion** jura ter visto um clérigo louco de Talos caminhando pelas nuvens e controlando o tempo. Seja quem ele(a) for, ao menos ele(a) seguiu em direção oposta ao grupo.
 
-<div class='pageNumber'>9</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -513,7 +513,7 @@ Em adição ao batalhão hobgoblin, três panteras deslocadoras são lançadas c
 
 Após derrotar os hobgoblins, um gás venenoso começa a preencher toda a arena e **Osborn** percebe que o único local seguro é no fosso. O grupo pula no fosso enquanto o gás preenche o restante da arena enquanto eles escutam gritos de juras de morte e aclamação por eles. A nuvem se dissipa e eles escutam a voz de Scyllua que diz que eles venceram o desafio. Eles teriam sua tão desejada audiência antes de sua execução.
 
-<div class='pageNumber'>10</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -564,7 +564,7 @@ Orgauth é um diabo do foço, um dos mais poderosos diabos dentre as legiões di
     <p>Orgauth - Diabo do Foço</p>
 </div>
 
-<div class='pageNumber'>11</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 \page
@@ -604,11 +604,11 @@ O vale da cicatriz em breve retomará o poder e glória de tempos passados. Scyl
 
 
 <br>
-E assim se encerram as aventuras do grupo no vale da Cicatriz. Novas aventuras os esperam no vale <????>
+E assim se encerram as aventuras do grupo no vale da Cicatriz. Novas aventuras os esperam no vale profundo.
 
 
 
-<div class='pageNumber'>12</div>
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 1 | Diário de Campanha</div>
 
 
@@ -712,7 +712,51 @@ ___
 </div>
 
 
+<div class='pageNumber auto'></div>
 <div class='footnote'>PARTE 2 | Regiões e NPCs</div>
 
 \page
 
+# Créditos
+
+Autores das imagens, em ordem de aparição
+
+* [Cachoeiras - Concept-Art-House](https://www.deviantart.com/concept-art-house/art/Mountain-Waterfalls-495470225)
+* [Chandlerscros - 韩国b lee 游戏场景原画](http://cgwall.cn/show-1761.html)
+* [Encontro dos Escudos - artista desconhecido - arte conceitual de Merlim](http://www.farfarawaysite.com/merlin/season5/promo/5008/12.jpg)
+* [Penhasco de Corellon - Silver Saaremaeel](http://runfreakrun.com/2013/07/to-be-a-concept-artist/)
+* [Girallons - Wizards of the Coast](    src='https://vignette.wikia.nocookie.net/forgottenrealms/images/a/a8/Girallon-5e.jpg/revision/latest/scale-to-width-down/350?cb=20171010155840' 
+)
+* [Tempestade - Mitch](https://i.pinimg.com/originals/e9/dd/39/e9dd392e079869d872872a69812de9c1.jpg)
+* [Hidra - Sandara](https://orig00.deviantart.net/5f61/f/2014/034/4/1/hydra__dipsy_demo__by_sandara-d74271p.jpg)
+* [Cerejeira - Daniel Conway](https://cdna.artstation.com/p/assets/images/images/001/015/166/large/daniel-conway-scorched-earth-as.jpg?1443931793)
+* [Largato de Nyng'al - Geraud Soulie](https://cdnb.artstation.com/p/assets/images/images/000/879/683/large/geraud-soulie-riding-lizardf.jpg?1443927467)
+* [Grishnak - AlexTzutzy](https://pre00.deviantart.net/31cd/th/pre/i/2014/285/e/5/lotr_orc_redesign_by_alextzutzy-d82lnwo.jpg)
+* [Castelo de Scardeep - artista desconhecido]()
+* [Caçador de Recompensas - Wizards of the Coast]()
+* [Plano desconhecido - Deusuum](https://pre00.deviantart.net/88c4/th/pre/f/2007/341/9/7/sigil_view_by_fuflon_by_deusuum.jpg)
+* [Sala com armadilhas - Wizards of te Coast](https://panzerleader.files.wordpress.com/2013/03/mudsorcerer.jpg)
+* [Beholder - Wizards of the Coast](https://vignette.wikia.nocookie.net/forgottenrealms/images/2/2c/Monster_Manual_5e_-_Beholder_-_p28.jpg/revision/latest?cb=20141109194926)
+* [Golem de Carne - Igor Artyomenko](http://cdn.escapistmagazine.com/media/global/images/library/deriv/870/870163.jpg)
+* [Scylua Drakhope - Irishhips](https://pre00.deviantart.net/58f2/th/pre/i/2016/340/e/0/witcher_3__ciri___at_arms_by_irishhips-daqrxa5.jpg)
+* [Garren Garreth - Mlappas](https://pre00.deviantart.net/0558/th/pre/i/2015/264/8/c/dark_wizard_by_mlappas-d9adl69.png)
+* [Capitão Ol'o'dun - artista desconhecido]()
+* [Pérola Negra - Howard Lyon](https://www.howardlyon.com/)
+* [Fundo do mar - artista desconhecido]()
+* [Forte Zenthil - artista desconhecido]()
+* [Arena - Shane Estanislao](https://www.behance.net/gallery/14891613/God-of-War-Ascension)
+* [Hobgoblins - artista desconhecido](https://i.pinimg.com/originals/b0/a7/a8/b0a7a8b90f474012bbba49421c1fa6b5.jpg)
+* [Castelo de Forte Zenthil - artista desconhecido]()
+* [Scyllua Darkhope - aparentemente bittersiha](https://i.pinimg.com/564x/ce/13/07/ce130716be1b37fcae5be2f484488a2d.jpg)
+* [Orgauth - Wizards of the Coast - Svetlin Velinov](https://www.inprnt.com/gallery/velinov/treacherous-pit-dweller/)
+* [Tyr abençoa os heróis - artista desconhecido](http://pro.bols.netdna-cdn.com/wp-content/uploads/2017/02/dungeon-chess-epic-chess-battles.jpeg)
+* [Cidade de Scardeep - artista desconhecido](https://i.pinimg.com/564x/c8/53/e5/c853e516ff4cc7e9981acd3f03001448.jpg)
+* [Elix - Guerrilla - Cook & Becker B.V.](https://www.candb.com/en/artwork/1844/aloy-horizon-zero-dawn-guerrilla.html)
+* [Randal Morn - artista desconhecido]()
+* [Khelvos Dermmen - artista desconhecido]()
+* [Storm Silverhand - Wizards of the Coast - Loockwood](https://vignette.wikia.nocookie.net/forgottenrealms/images/f/f4/StormSilverhand.jpg/revision/latest?cb=20061122024307)
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 3 | Créditos</div>
