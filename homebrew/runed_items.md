@@ -155,10 +155,12 @@ ___
 * **Master ventriloquist:** As long as Phooka is by your side, you may use his energy to change your voice to another one. A creature can use its action to inspect your appearance and must succeed on an Intelligence (Investigation) check against your spell save DC.
 * **Master trickster:** As long as Phooka is by your side, you may use one of his charges to cast disguise self. 
 * **Master sneackery:** You may spend one of Phooka's charges to have advantage on a stealth check
-* **Invoke duplicity:** As a bonus action, you may use one of Phooka's chargers and Phooka turns into a perfect illusion of yourself that lasts until the end of your next turn. For the duration, creatures have disadvantage on attack rolls against you and Phooka, given how distracting the illusion is to the target. Starting at the 11th level, you may teleport to Phooka's location when this effect ends. Phooka swaps places with you.
+* **Invoke duplicity:** As a bonus action, you may use one of Phooka's chargers and Phooka turns into a perfect illusion of yourself that lasts until the end of your next turn. For the duration, creatures have disadvantage on attack rolls against you and Phooka, given how distracting the illusion is to the target. Starting at the 8th level, you may teleport to Phooka's location when this effect ends. Phooka swaps places with you.
+* **Ultimate Prankster:** Phookas misfortune affect even the most powerful beings. Roll two d20s and record the numbers rolled. You can replace any enemies' attack roll, saving throw, or ability check made by a creature that you can see with one of these foretelling rolls. 
 
 
-<img src='http://i.imgur.com/FCu4k17.png' style='position:absolute;bottom:100px;right:525px;width:120px' />
+
+<img src='http://i.imgur.com/FCu4k17.png' style='position:absolute;bottom:100px;right:100px;width:120px' />
 
 <div class='pageNumber'>4</div>
 <div class='footnote'>Runed items</div>

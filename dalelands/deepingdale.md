@@ -522,7 +522,7 @@ A companhia finalmente chega ao castelo alto. Ao invés de encontrar uma cidade 
 
 <div style="text-align: center">
   <img 
-    src='https://awoiaf.westeros.org/images/9/91/Fall_of_harrenhal_by_reneaigner.jpg' 
+    src='http://nerdcoremovement.com/wp-content/uploads/Fall_of_harrenhal_by_reneaigner.jpg' 
     style='width:355px' />
     <p>Shadraxil ataca a cidade de Castelo Alto</p>
 </div>
@@ -689,9 +689,259 @@ Apesar do último combate ter custado quase todos os recursos dos heróis, a ben
 </div>
 
 
-## Capítulo 22
+## Capítulo 22: Gurllang, o Rei Furioso
 
-## Capítulo 23
+Montados em seus grifos, os heróis atacam a fortaleza voadora. 
+Shrek usa de seus poderes e comunhão com o espírio da águia para ter uma visão periférica do castelo e encontrar o melhor ponto de ataque.
+Guiados pelo espírito da águia, os heróis atacam de assalto os jardins do castelo one eles enfrentam um gigante da morte e um batalhão de mortos-vivos.
+
+É um combate rápido e sem grandes casualidades. Os heróis continuam seu caminho adentrando no castelo. No salão principal, eles encontram Gurllang, o rei dos gigantes. Ele está acompanhado de sua filha, Esther e ambos estão furiosos pelas tantas derrotas 	que eles sofreram perante os heróis do vale.
+
+Gurllang saca sua espada e parte para o combate, enquanto sua filha prepara poderosas magias para proteger o seu pai. Hasgard é mais rápido que a gigante e é capaz de bani-la para um outro plano, aprisionando-a lá enquanto que o grupo concentra seus esforços contra Gurllang que urra em fúria e cada um dos balanços de sua espada trovejante destrói parte das muralhas de seu castelo. 
+Mesmo sendo um formidável oponenete, sozinho o rei não é páreo para o grupo e parece em batalha.
+
+<br><br><br><br><br><br>
+
+## Capítulo 23: Uma aliança inusitada
+
+Após derrotar Gurllang, a magia de Hasgard expira e Esther volta ao plano material. Sozinha, ela se rende e promete ajudar os heróis na batalha contra Shadraxil.
+Ela também entrega ao grupo o último pedaço da lightbringer. 
+Dizendo que Shradaxil estava escravizando os gigantes e tornando os que se opunham à ele em gigantes da morte.
+Cansada de ver seu povo sofrer, ela diz que os gigantes se juntarão aos heróis para o combate final.
+
+
+
+## Capítulo 24: Noites calmas antes da escuridão
+
+Após conseguir todos os pedaços da lightbringer, os heróis se reunem em Lua Alta. Na capital do vale profundo, eles pesquisam como usar a arma para derrotar Shadraxil. Há alguns dias antes que os exércitos das forças aliadas marchem para os picos da tempestade - onde o dragão repousa. 
+
+Neste meio tempo, os aventureiros fazem pequenos preparos, se despedem de entes queridos, ou meditam para a batalha que está por vir.
+
+Ellion peregrina para a árvore cerejeira de Corellon. Ele pede para que o Deus o abençoe e uma pétala de cerejeira cai na sua espada - a lâmina da floresta. A lâmina da arma muda de cor, exibindo agora um padrão rajado nas cores da flor de cerejeira.
+
+Shrek se junta aos cavaleiros do vale do Arco. Ele lidera as tropas que marcham para o pé da montanha, derrotando várias ameaças que poderiam ter causado imprevistos no batalha por vir.
+
+Um aliado há muito recluso retorna para ajudar na batalha final - **Delírio** o mago ilusionista e o seu pequeno familiar pregador de peças, Phooka.
+
+Os demais aventureiros descansam até que é chegado o dia das forças aliadas lutaarem pelo destino das terras dos vales.
+
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/originals/c6/bd/96/c6bd9671aeea24bae1b7144c9002ff6f.jpg' 
+    style='width:350px' />
+    <p>Picos da Tempestade</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+## Capítulo 25: Ataque aos picos da tempestade
+
+As tropas aliadas atacam as forças inimigas na base dos picos da tempestade. A estratégia é simples, chamar a atenção do dragão e permitir que os heróis sigam por uma trilha rochosa até o topo da montanha, onde eles poderão salvar Lathander, o Deus do sol que stá aprisionado.
+
+
+Os líderes da terra dos vales se despedem dos heróis e desejam que a deusa da sorte possa abençoá-los. 
+Esta seria a última vez que os heróis veriam muitos dos rostos que lutaram tantas vezes ao lado deles.
+
+## Capítulo 26: Batalha arcana
+
+O grupo segue pela trilha rochosa pelas montanhas. É uma subida íngrime até que eles cheguem num planalto que leva a um antigo castelo que possui corredores e passagens subterrâneas até o pico da montanha.
+
+Os heróis seguem em marcha rápida até os portões do castelo, mas **Muchbeer** percebe algo errado. Ele percebe criaturas invisíveis os cercando e assim que ele alerta os demais da presença das criaturas todos escutam uma voz ecoando distante:
+
+*"Heróis, Hasgard fez um pacto comigo e eu os ajudei na batalha de Lua Alta. Entretanto, ele não cumpriu com sua promessa e e deve vários itens mágicos. Eu vim fazer com que ele cumpra sua promessa! Os magos vermelhos agora juram aliança à Shadraxil, que nos forneceu vários dos artefatos arcanos de seu vasto tesouro"* 
+
+Dito isto, Garren Garreth, líder de um enclave Thay ataca os heróis com uma esfera vitrólica. Uma poderosa magia arcana que explode em ácido ferindo vários dos membros do grupo. Além do mago, as criaturas invisíveis se revelam. São golens, criaturas inanimadas que servem um único propósito: proteger o seu mestre.
+
+Garreth escolheu bem o terreno onde ele interceptaria o grupo. Há no mínimo 120 pés o separando de onde o grupo enfrenta os golens e ele bombardeia todos com magias de longo alcance.
+
+<br><br><br>
+
+<div style="text-align: center">
+  <img 
+    src='http://41.media.tumblr.com/cd605180de31234ca7f0db8f07559366/tumblr_ngajxnY69g1tv3g49o2_1280.png' 
+    style='width:350px' />
+    <p>Golens de pedra comandados por Garreth</p>
+</div>
+
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/originals/1d/2e/e4/1d2ee4448a8e9a03b138da20c2ff1d7d.jpg' 
+    style='width:250px' />
+    <p>Garreth</p>
+</div>
+
+
+
+
+A batalha se estende e Shrek e Ellion engajam os golens enquanto Muchbeer usa sua braçadeira de invisibilidade para se esgueirar e atacar o mago. Delírio também usa de sua magia para se teleportar e se aproximar do mago vermelho.
+
+Percebendo isto, o mago lança um dedo da morte contra Muchbeer que ao receber a magia fica a beira da morte. 
+Shrek e Ellion derrubam o golens e correm para auxiliar seus amigos. 
+Garreth jura que levará ao menos um para o túmulo e atira mais um dedo da morte contra Muchbeer.
+Felizmente, Delírio consegue lançar uma contra-mágica e proteger seu pequenino amigo.
+Finalmente, Shrek e Ellion chegam no combate e os esforços conjuntos do grupo derrotam o mago.
+
+Estranhamente, o último golpe que acerta Garreth não quebra seus ossos, ou despeja seu sangue. Ao invés disso, o mago se estilhaça em gelo e flocos de neve. Como um mestre das artes arcanas, Delírio sabe que eles derrotaram um simulácro - uma cópia ilusória do mago.
+
+<br><br>
+
+<div style="text-align: center">
+  <img 
+    src='https://cdn.vox-cdn.com/thumbor/L0v8ZeoBYoF_NtQB_A_nWqewju4=/0x0:1920x1120/1200x800/filters:focal(557x184:863x490)/cdn.vox-cdn.com/uploads/chorus_image/image/56569867/magic_arena_art.0.jpg' 
+    style='width:300px' />
+    <p>Delírio duela contra Garreth</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+
+## Capítulo 27: O último vôo dos wyverns cinzas
+
+No campo de batalha, **Barbarin** o louco discute com o restante da companhia dos Wyverns cinzas. Ele diz que apesar dos heróis terem os pedaços da lightbringer e serem aventureiros mais experientes, ele não deixaria eles levarem a melhor contra Shadraxil.
+
+O dragão havia matado mais da metade da companhia, o corrompido e feito várias atrocidades. Era uma questão de honra se vingar do dragão. Ele diz para os demais membros que caso eles queiram, eles podem continuar no campo de batalha, mas que ele, Barbarin - o louco - iria ter sua vingança.
+
+Concordando com ele, **Jassan** e **Alberich** se juntam ao bárbaro e partem para se juntar aos heróis do vale e lutar contra o dragão.
+
+## Capítulo 28: Kegan o corrompido
+
+
+Chegando no topo da montanha, os heróis veem Lathander aprisionado. Ele está acorrentado a um altar e seis brazeiros ao seu redor emanam um fogo verde que queima e drena a energia vital do Deus.
+
+Os heróis escutam o bater de asas e vem a sombra do dragão vindo na direção deles. Entretanto, a sombra mergulha e se mescla a sombra de uma figura ameaçadora e gigantesca - Kegan, o cavaleiro corrompido.
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/originals/b9/66/5e/b9665e7e8c99591e860732af10dc9ff8.jpg' 
+    style='width:300px' />
+    <p>Kegan, o corrompido</p>
+</div>
+
+Kegan era um dragão púrpura e um matador de dragões. Ele foi o responsável pela morte de Shadraxil. Na verdade, sua captura em uma armadilha mágica que prendeu o dragão.
+
+
+Encarregado de guardar a armadilha, Kegan construiu a fortaleza no cume dos picos trovejantes. Entretanto, com o passar dos anos, a magia do dragão começou a enlouquecer o cavaleiro e pouco a pouco, ele se corrompeu. 
+
+Se tornando o avatar de Shadraxil, Kegan maquinou a liberação do grande dragão de sombras e drenando a energia de Lathander, seu plano estaria completo. Dizendo essas palavras, Shadraxil se levanta das sombras do cavaleiro e toma forma novamente. O dragão e seu cavaleiro corrompido se preparam para a última batalha.
+
+Shadraxil alça vôo e usa seu sopro para criar uma barreira impedindo que os cavaleiros cheguem no altar. Enquanto isto, Ellion e Shrek engajam o cavaleiro. Ellion - o demônio das lâminas - usa de toda a sua maestria élfica e desfere vários ataques contra Kegan. Recebendo todos os golpes, Kegan ainda fica de pé e Ellion se impressiona com a força do cavaleiro. Enquanto isto, Muchbeer e Delírio usam tanto sua braçadeira de invisibilidade quanto magias de ilusão para avanár pelo campo de batalha.
+
+
+Os wyverns chegam ao cume da batalha e se juntam aos heróis do vale na batalha contra Kegan e o dragão. 
+Vendo que os heróis estão em maior número, Shadraxil usa de sua influência corrupta e começa a influenciar Muchbeer, que resiste ao dragão mas começa a ter sua mente despedaçada.
+
+
+<div style="text-align: center">
+  <img 
+    src='http://www.magicspoiler.com/wp-content/uploads/2012/11/Mind-Grind-Art-by-Daarken.jpg' 
+    style='width:300px' />
+    <p>Muchbeer a beira da insanidade</p>
+</div>
+
+Entre sopros de energia necrótica, golpes de espada de Kegan e espectros (vítimas do dragão) que emergem das chamas negras, os heróis do vale estão a beira da derrota. Será que há esperanças? Será que Lathander será salvo?
+
+<br><br>
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/564x/e8/d8/44/e8d8443b1df6d682fc3b0f9396f38d08.jpg' 
+    style='width:300px' />
+    <p>Shadraxil</p>
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
+\page
+
+
+
+## Capítulo 29: A última batalha - luz vs escuridão
+
+
+Apesar da influencia de Shadraxil, Muchbeer consegue ter um momento de clareza e ele analisa o campo de batalha. Voltando sua atenção para outros aspectos se não o dragão, ele percebe três braseiros no campo de batalha. Ele olha para Delírio e antes que ele possa conectar três braseiros, três pedaços da Lightbringer... o mago também faz a mesma conexão.
+
+Ambos jogam os fragmentos que eles possuem nos braseiros e o fogo verde que drenava a energia de Lathander se extingue. Não somente isto, mas o ritual ricocheteia e fogo radiante queima Shadraxil. O dragão grita de dor e olha enfurecido para ambos.
+
+Neste meio tempo, Barbarin, Ellion e Shrek derrotam Kegan. Agora que Lathander não tem mais tantas de suas energias drenadas, Hasgard consegue invocar o poder de seu Deus e curar seus aliados no campo de batalha.
+
+A batalha prossegue e os heróis conseguem lançar o último fragmento da lightbringer no último brazeiro. Interrompendo assim o ritual.
+Enfurecido, Shadraxil contra ataca. Vários dos heróis do vale estão a beira da morte e os membros da companhia do wyvern cinza também estão bastante feridos.
+
+
+Vendo o decorrer da batalha e tendo lembranças de tantos dos membros da companhia que pereceram contra o dragão Barbarin entra em uma fúria frenética e investe contra o dragão.
+Barbarin pula contra o dragão e acerta a primeira machadada. O dragão leva o golpe e dá um passo pra trás. 
+Barbarin grita.
+Shadraxil se levanta nas patas traseiras e se prapra pra contraatacar dizendo *"Barbarin você é valoroso eu lhe tornarei meu general uma segunda vez. E dessa vez você não sairá de minhas garras."* 
+Abrindo suas asas os olhos de Shadraxil brilham e o dragão tenta corromper o anão de novo.
+O bárbaro pega o seu machado de duas mãos, bate três vezes com o cabo da arma contra a própria cabeça pra se livrar da dominação e dá um segundo ataque.
+
+Shadraxil cabaleia e abre a guarda olhando assustado para o bárbaro aos seus pés que aproveita o momento e pula com o machado no peito do dragão, desferindo o golpe final. Seu machado desliza sobre a pele escamosa da criatura que cai morta aos pés de Barbarin.
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.imgur.com/Aj4q4qq.png' 
+    style='width:200px' />
+    <p>Barbarin contra Shadraxil</p>
+</div>
+
+
+## Capítulo 30: Epílogo
+
+Recobrando suas forças, Lathander se ergue e agradece aos heróis e a companhia dos Wyverns pelos seus atos heróicos. O deus emana uma energia radiante que praticamente cega todos no campo de batalha. Seu corpo divino sobe aos céus e luz perfura o eclipse solar que até então lançava suas trevas contra as terras dos vales.
+
+Liberto, Lathander lança uma lança solar nas fundações da fortaleza de Kegan destruindo não só o castelo como também o dragão de uma vez por todas.
+
+Ao pé da montanha, as forças aliadas tiveram uma vitória esmagadora contra o pouco que restava das forças do dragão. Encandeados pela luz divina, drows, orcs, e criaturas da noite recuam ou fogem do campo de batalha. Triunfantes, os heróis do vale e a companhia tem seu merecido descanso.
+
+
+<div style="text-align: center">
+  <img 
+    src='https://i.pinimg.com/564x/60/6b/0b/606b0b22a34e196fef87f0294f85e543.jpg' 
+    style='width:200px' />
+    <p>Os heróis triunfam contra Shadraxil</p>
+</div>
+
+<br><br>
+
+Algum tempo após a batalha, Hasgard parte para os domínios de Thay, jurando vingança contra Garren Garreth. Shrek e Muchbeer se juntam ao anão. Ellion segue fazendo trabalhos mercenários e muitos contam a lenda do demônio das lâminas. Por fim, Delírio segue seus estudos arcanos na companhia de seu travesso familiar.
+
+Em uma taverna barulhenta, os Wyverns Cinzas sentam e discutem o futuro da companhia. Não há mais guerras ou grandes perigos na terra dos vales. Jassan abre o mapa dos reinos esquecidos e aponta para o norte. As **Fronteiras Prateadas** meus nobres amigos, há moedas e perigos suficientes para nós no norte. Os mercenários dão um sorriso sagaz e sonham com as aventuras que estão por vir.
+
+
+
+
+<div style="text-align: center">
+  <img 
+    src='https://vignette.wikia.nocookie.net/forgottenrealms/images/6/6d/River_rauvin.png/revision/latest?cb=20120228182152' 
+    style='width:400px' />
+
+</div>
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>PARTE 1 | Diário de Campanha</div>
+
+
 
 \page
 
