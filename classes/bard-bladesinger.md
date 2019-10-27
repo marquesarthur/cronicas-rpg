@@ -59,7 +59,7 @@ Will you join their fight?'
 
 When you adopt this tradition at 3rd level, you gain proficiency with medium armor, the longsword, and the scimitar.
 
-If you’re proficient with a simple or martial melee weapon, you can use it as a spellcasting focus for your bard spells, provided that you aren't wearing heavy armor or using a shield.
+If you’re proficient with a simple or martial melee weapon, you can use it as a spell casting focus for your bard spells, provided that you aren't wearing heavy armor or using a shield.
 
 The bladesinger lets you choose from an expanded list of spells when you learn a bard spell. The following spells are added to the warlock spell list for you.
 
