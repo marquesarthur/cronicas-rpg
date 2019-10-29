@@ -1,4 +1,4 @@
-# Dwarven Defender
+# Artificer
 
 
 Dwarven defenders are skilled in many ways but the emphasis of their training lies on defense, rather than offense. All dwarven defenders have an extreme capability both for deflecting blows with their armor or shields, as well as for taking any blows that get through. A line of dwarven defenders is a far better defense than a 10-foot-thick wall of stones, and much more dangerous.
@@ -62,7 +62,7 @@ You can use this feature three times. You regain all expended uses of it when yo
 
 ## Dwarvish Runes
 
-Starting at 7th level, you enchant your armor and shield with mighty dwarven runes. You can carve up to three runes which remain on an object until you finish a long rest or you activate the rune, dispelling its effect. 
+Starting at 7thth level, you enchant your armor and shield with mighty dwarven runes. You can carve up to three runes which remain on an object until you finish a long rest or you activate the rune, dispelling its effect. 
 
 
 
@@ -87,7 +87,7 @@ Additionaly, your defensive stance AC bonus increases to +2.
 
   
 <img
-  src='https://i.pinimg.com/originals/fd/8d/0e/fd8d0ee8b831091d6882402a793893e3.jpg'
+  src='https://i.pinimg.com/564x/4a/a6/c7/4aa6c796e9520a9f77a059b34b85b310.jpg'
   style='position:absolute;bottom:60px;right:35px;width:350px;mix-blend-mode:multiply'/>  
   
 <img
