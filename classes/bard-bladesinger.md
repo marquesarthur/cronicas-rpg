@@ -141,3 +141,9 @@ Beginning at 10th level, you can direct your magic to absorb damage while your B
 <img
   src='http://i.imgur.com/nzPYZyD.png'
   style='position:absolute;top:890px;left:130px;width:400px' />
+
+
+
+<div class='pageNumber auto'></div>
+<div class='footnote'>Classes</div>  
+

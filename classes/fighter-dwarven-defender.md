@@ -69,20 +69,20 @@ Starting at 7th level, you enchant your armor and shield with mighty dwarven run
 * **Nogrod** you activate this rune as a reaction when you are the target of a spell. You have advantage against the spell save.
 
 
-* **Dor-Lómin** you activate this rune as a reaction when you take when you take acid, cold, fire, lightning, or thunder damage. You have resistance to the triggering damage type until the start of your next turn. 
+* **Dor-Lómin** you activate this rune as a reaction when you take acid, cold, fire, lightning, or thunder damage. You have resistance to the triggering damage type until the start of your next turn. 
 
 * **Kheled-zâram**  you activate this rune as a reaction when you are hit by an attack. Until the start of your next turn, you have a +4 bonus to AC, including against the triggering attack. If the attack misses, you can make a melee weapon attack against the creature. If you hit, you add your Fighter level to the attack's damage roll.
 
 
 * **Nauglamír** you activate this rune when you use your Second Wind feature, you can choose up to three creatures within 60 feet of you that are allied with you. Each creature regains an equal amount of hit points.
 
-* **Mîr** you activate this rune as a reaction when a hostile creature moves adjacent to an ally. You immediately move up to your movement speed towards the creature. This movement does not break your defensive stance. If you end your movement adjacent to the creature, make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you knock the target prone.
+* **Mîr** you activate this rune as a reaction when a hostile creature moves adjacent to an ally. You immediately move up to your movement speed towards the creature. If you end your movement adjacent to the creature, make a Strength (Athletics) check contested by the target’s Strength (Athletics) or Dexterity (Acrobatics) check (the target chooses the ability to use). If you win the contest, you knock the target prone.
 
 
 ## Living Fortress
 
 Starting at 10th level, you have advantage on initiative rolls.
-Additionaly, your defensive stance AC bonus increases to +2.
+Additionally, your defensive stance AC bonus increases to +2.
 
 
   
