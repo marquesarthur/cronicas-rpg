@@ -11,7 +11,7 @@ The ability to infect, slow and terrify their enemies gives witch doctors unprec
 When you choose this domain at 1st level, any cleric spells you cast that deal necrotic or poison damage ignore a creature's resistance to that damage type.
 
 
-Your domain algo grants you the power to **hex** a hostile creature. When you or an ally are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing spectres and creatures from the shadowfell to haunt the attacker. An attacker that can't be frightened is immune to this feature. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+Your domain also grants you the power to **hex** a hostile creature. When you or an ally are attacked by a creature within 30 feet of you that you can see, you can use your reaction to impose disadvantage on the attack roll, causing specters and creatures from the shadowfell to haunt the attacker. An attacker that can't be frightened is immune to this feature. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 
 ## Channel Divinity: Zombie Minion
@@ -143,7 +143,7 @@ ___
 >
 > ### Reactions
 > 
-> ***Locust Swarm.*** The putrefied scent released by the swarm of locusts living in the minion imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it.
+> ***Locust Swarm.*** The putrefied scent released by the swarm of locusts living in the minion imposes disadvantage on the first attack roll of one creature that is within 5 feet of the minion.
 
 
 
