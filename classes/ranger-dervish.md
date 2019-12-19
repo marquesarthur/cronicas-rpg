@@ -31,7 +31,7 @@ The die becomes a d6 at 7th level and a d8 at 10th level.
 
 ## Nomad 
 
-The dervish nomadic culture allows them to adapt to the most inhospitable environments. At 3rd level, if you spend 2 or more days travelling through a landscape, you gain resistance to either poison, cold, fire, lightning, or thunder damage. Whenever you finish a long rest, you may change your damage resistance type.
+The dervish nomadic culture allows them to adapt to the most inhospitable environments. At 3rd level, if you spend 2 or more days travelling through a landscape, you gain resistance to either poison, cold or fire damage. Whenever you finish a long rest, you may change your damage resistance type.
 
 
 For example, a dervish travelling through a marsh or a rain forest will quickly learn about edible and poisonous mushrooms, therefore gaining resistance to poison damage.
@@ -109,4 +109,3 @@ You regain all expended uses of it when you finish a long rest.
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>Classes</div>  
-

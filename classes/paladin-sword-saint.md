@@ -145,7 +145,7 @@ ___
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.
 
 
-On a hit, the target suffers the attack's normal effects, and spectral frost covers the target's weapon or gear causing the target to take 3d6 ice damage. At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, the target is restrained and takes 2d6 ice damage. On a successful save, the spells ends.
+On a hit, the target suffers the attack's normal effects, and spectral frost covers the target's weapon or gear causing the target to take 2d6 ice damage. At the start of each of its turns until the spell ends, the target must make a Constitution saving throw. On a failed save, the target is restrained and takes 2d6 ice damage. On a successful save, the spells ends.
 
 
 
@@ -196,7 +196,7 @@ ___
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.
 
 
-On a hit, the target suffers the attack's normal effects and a rift through time and space deal an extra 3d6 force damage to the target, which is them slowed.
+On a hit, the target suffers the attack's normal effects and a rift through time and space deals an extra 3d6 force damage to the target, which is them slowed.
 
 The target's speed is halved, it takes a -2 penalty to AC and Dexterity Saving Throws, and it can't use reactions. On its turn, it can use either an action or a Bonus Action, not both. Regardless of the creature's Abilities or Magic Items, it can't make more than one melee or ranged Attack during its turn.
 
