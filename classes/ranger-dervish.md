@@ -26,15 +26,18 @@ When you make your first Attack on Your Turn, you can decide to Attack recklessl
 
 
 Your whirling blades die changes when you reach certain Ranger levels.
-The die becomes a d6 at 7th level and a d8 at 10th level.
+The die becomes a d6 at 7th level and a d8 at 11th level.
 
 
 ## Nomad 
 
-The dervish nomadic culture allows them to adapt to the most inhospitable environments. At 3rd level, if you spend 2 or more days travelling through a landscape, you gain resistance to either poison, cold or fire damage. Whenever you finish a long rest, you may change your damage resistance type.
+The dervish nomadic culture allows them to adapt to the most inhospitable environments. For example, a dervish traveling through a marsh or a rain forest will quickly learn about edible and poisonous mushrooms, therefore gaining resistance to poison damage.
 
 
-For example, a dervish travelling through a marsh or a rain forest will quickly learn about edible and poisonous mushrooms, therefore gaining resistance to poison damage.
+At 3rd level, if you spend 2 or more days traveling through a landscape, you gain resistance to either poison, cold or fire damage. Whenever you finish a long rest, you may change your damage resistance type.
+
+
+
 
 
 

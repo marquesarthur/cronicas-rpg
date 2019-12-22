@@ -1,7 +1,7 @@
 # Earthshaker
 
 
-Druids that mold the earth to their will. An earthshaker has the fury of an earthquake  or the gentleness of drift sand. No one can tell. In battle, an earthshaker uses its druidic magic to create protective stone armour or to barrage enemis with stone pin missiles.
+Druids that mold the earth to their will. An earthshaker has the fury of an earthquake  or the gentleness of drift sand. No one can tell. In battle, an earthshaker uses its druidic magic to create protective stone armour or to barrage enemies with stone pin missiles.
 
 <br>
 
@@ -33,7 +33,7 @@ Once you gain access to one of these spells, you always have it prepared, and it
 
 At 2nd level, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
-Additionally, parts of your skin are covered by a thin thin yet resistant magical armor made of earth and stone. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier. 
+Additionally, parts of your skin are covered by a thin yet resistant magical armor made of earth and stone. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier. 
 
 At 6th level your AC increases to 14 + your Dexterity modifier and at 10th level to 15 + your Dexterity modifier.
 
@@ -142,7 +142,7 @@ Your spell's always have stone and debris effects, e.g., otiluke's sphere might 
 
 At 10th level, you gain the ability to cause a small earthquake by stomping the ground and channeling your geomagnetic grip through your surroundings. 
 
-As a reaction before an enemy movement or attack roll within 60 feet of you, you cause a shockwave that travels through the ground. The target must succeed on a Constitution saving throw against your spell save DC or be knocked prone. 
+As a reaction before an enemy movement or attack roll within 60 feet of you, you cause a shockwave that travels through the ground and hits the target. The creature must succeed on a Dexterity saving throw against your spell save DC or be knocked prone. If the target has burrow speed, it makes the roll with disadvantage.
 
 
 You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.

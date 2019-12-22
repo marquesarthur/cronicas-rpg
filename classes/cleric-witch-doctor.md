@@ -34,14 +34,14 @@ It can move and use its reaction on its own, but the only action it takes on its
 | 3rd | Ray of Enfeeblement, Blindness/Deafness |
 | 5th | Fear, Slow |
 | 7th | Phantasmal Killer, Grasping Vine*|
-| 9th | Hold Monster, Destructive Wave |
+| 9th | Hold Monster, Synaptic Static |
 </div>
 
 <div style="text-align: right;">
 Instead of vines, you conjure ghosts and haunted spirits * 
 </div>
 
-<br>
+<br><br>
 
 
 ## Midnight Feast
@@ -139,7 +139,7 @@ ___
 >
 > ***Sacrifice.*** Forces each creature within 10 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d6 necrotic damage on a failed save or half as much damage on a successful one.
 >
-> The Sacrifice damage increases by when you reach 5th level (4d6), 9th level (5d6), 13th level (6d6) and 17th level (8d6).
+> The Sacrifice damage increases when you reach 5th level (4d6), 9th level (5d6), 13th level (6d6) and 17th level (8d6).
 >
 > ### Reactions
 > 

@@ -120,7 +120,7 @@ ___
 
 As part of the action used to cast this spell, you must make a melee attack with a weapon against one creature within the spell's range, otherwise the spell fails.
 
-On a hit, the target suffers the attack's normal effects, and a wave of thunderous force sweeps out from your strike. The target must make a Strength saving throw. On a failed save, the target takes 1d6 thunder damage and is pushed 10 feet away from you.
+On a hit, the target suffers the attack's normal effects, and a wave of thunderous force sweeps out from your strike. The target must make a Strength saving throw. The target takes 1d6 thunder damage and, on a failed save, is pushed 10 feet away from you.
 
 
 <div class='descriptive' style="text-align: right;">
@@ -164,7 +164,7 @@ As part of the action used to cast this spell, you must make a melee attack with
 
 
 
-On a hit, the target suffers the attack's normal effects, and purple lightning leaps from the target to 3 different creatures of your choice that you can see within 20 feet of it. The second creatures take 2d6 lightning damage. You can teleport to an unoccupied space adjacent to any of the creatures targeted by the lightning.
+On a hit, the target suffers the attack's normal effects, and purple lightning leaps from the target to 3 different creatures of your choice that you can see within 30 feet of it. The second creatures take 2d6 lightning damage. You can teleport to an unoccupied space adjacent to any of the creatures targeted by the lightning.
 
 
 

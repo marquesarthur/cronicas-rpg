@@ -25,7 +25,7 @@ As long as the immolation is active, you can use your bonus action to magically 
 Up to three Enemies in the area take 1d6 + your Wisdom modifier radiant or necrotic damage. Up to three creatures in the area including yourself regain hit points equals to your Wisdom modifier.
 
 
-The immolation damage increases by one die when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6). The hit points regained increase to twice your Wisdom modifier when you reach 11th level.
+The immolation damage increases by one die when you reach 5th level (2d6), and 11th level (3d6). The hit points regained increase to twice your Wisdom modifier when you reach 11th level.
 
 <br><br>
 

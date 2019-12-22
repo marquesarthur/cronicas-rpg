@@ -20,13 +20,12 @@ It can move and use its reaction on its own, but the only action it takes on its
 
 
 
-## Arcane Trap
+## Stasis Glyph
 
 
-At 2nd level, you have learned to weave your magic to create an arcane protective glyph. 
+At 2nd level, you have learned to weave your magic to create an arcane glyph. 
 
-As a bonus action, chose a point within 30 feet of you. You magically ward that location. Whenever a creature starts it turn over an arcane glyph or move to a space occupied by a glyph, it must make a Wisdom saving throw against your spell DC. On a failed save, the creature's speed is halved.
-
+As a bonus action, chose three points in space within 30 feet of you. You magically ward that location. A glyph can only be seen by the Aeger and by creatures that have true sight.  Whenever a creature starts its turn over an arcane glyph or move to a space occupied by a glyph, it must make a Wisdom saving throw against your spell DC. On a failed save, the creature's speed is halved. You can decide not to trigger the glyph (no action required).
 
 
 You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
@@ -42,27 +41,22 @@ Starting at 6th level, you are magically bonded to the shield guardian. As long 
 This damage cannot be reduced by any means.
 
 
-
-<br>
-
-
-<div class='descriptive'>
-##### The crafting of a Shield Guardian
-
-You are encouraged to talk with your DM and discuss any roleplaying aspects to how you create the shield guardian and what materials it is made of. For example, on a shipwreck, you may roleplay that you magically levitate driftwood, sea stones, and rusty iron chains to craft your shield guardian.
-
-The shield guardian can also represent a spirit or fey creature bonded to you by a contract.
-</div>
-
-
-
-
 ## Defensive Grid
 
 Beginning at 10th level, your shield guardian emanates a threatening arcane aura that discourages any creature from approaching its master.
 
 The aura flits around the shield guardian to a distance of 15 feet. 
 Any hostile creature in the area has its speed reduced by 10 feet, and when the creature attacks the wizard for the first time on a turn, it must make a Wisdom saving throw against your spell DC. On a failed save, the creature takes force damage equal to your wizard level.
+
+
+<br>
+
+<div class='descriptive'>
+##### The crafting of a Shield Guardian
+
+You are encouraged to talk with your DM and discuss any roleplaying aspects to how you create the shield guardian and what materials it is made of. For example, on a shipwreck, you may roleplay that you magically levitate driftwood, sea stones, and rusty iron chains to craft your shield guardian. The shield guardian can also represent a spirit or fey creature bonded to you by a contract.
+</div>
+
 
   
 <img
