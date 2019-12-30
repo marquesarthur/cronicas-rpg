@@ -51,11 +51,11 @@ Once you use this feature, you can't use it again until you finish a short or lo
   
 <img
   src='https://i.pinimg.com/564x/22/c3/cf/22c3cf602fc3acd0e57fd6da618af4a0.jpg'
-  style='position:absolute;bottom:-70px;right:-20px;width:500px;mix-blend-mode:multiply'/>  
+  style='position:absolute;bottom:-70px;right:10px;width:500px;mix-blend-mode:multiply'/>  
   
   
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>[art](https://www.artstation.com/artwork/qAYLyy) by Frost Llamzon</div>  
 
