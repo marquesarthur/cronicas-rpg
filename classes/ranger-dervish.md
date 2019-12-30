@@ -111,4 +111,4 @@ You regain all expended uses of it when you finish a long rest.
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>[Opal Prince](https://www.deviantart.com/alessandro-poli/art/Opal-Prince-556946221) by Alessandro</div>  

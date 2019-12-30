@@ -70,12 +70,10 @@ Beginning at 10th level, you can change the song/effect of your battle chant at 
 
 <img
   src='https://camelotunchained.com/v3/wp-content/themes/CSE%20v2/images/spotlight-skald.png'
-  style='position:absolute;bottom:-114px;right:-70px;width:350px;mix-blend-mode:multiply'/>
+  style='position:absolute;bottom:-105px;right:200px;width:300px;mix-blend-mode:multiply'/>
   
 
-<img
-  src='http://i.imgur.com/nzPYZyD.png'
-  style='position:absolute;top:700px;left:200px;width:300px' />  
+
 
 <img
   src='http://i.imgur.com/nzPYZyD.png'
@@ -86,12 +84,8 @@ Beginning at 10th level, you can change the song/effect of your battle chant at 
   style='position:absolute;top:170px;left:40px;width:500px' />
 
 
-<img
-  src='http://i.imgur.com/nzPYZyD.png'
-  style='position:absolute;top:890px;left:130px;width:400px' />
-
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>art from Camelot Unchained, [Skald](https://camelotunchained.com/v3/realms/vikings/skald/)</div>  
 

@@ -147,8 +147,6 @@ ___
 
 
 
-
-
 <img
   src='https://i.pinimg.com/564x/9b/83/37/9b83376f171ede2757b0b7e6825fd72b.jpg'
   style='position:absolute;bottom:500px;right:35px;width:350px;mix-blend-mode:multiply'/>  
@@ -158,6 +156,7 @@ ___
   src='https://i.pinimg.com/564x/39/b6/b9/39b6b90fc5a1221f798177abcff7907b.jpg'
   style='position:absolute;bottom:-10px;right:60px;width:500px;mix-blend-mode:multiply'/>    
 
+
   
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>[Jatembe](https://www.deviantart.com/windmaker/art/Old-Mage-Jatembe-403140839) by Windmaker - [undead dogs](https://br.pinterest.com/pin/344525440240567967/?lp=true) unknow </div>  

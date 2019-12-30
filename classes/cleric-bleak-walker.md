@@ -97,5 +97,5 @@ At 8th level, you gain the ability to infuse your weapon strikes with divine ene
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>[Concepts for Joan of Arc](https://www.artstation.com/artwork/BGoy4) by Bayard Wu</div>  
 
