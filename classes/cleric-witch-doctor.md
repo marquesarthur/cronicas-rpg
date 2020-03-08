@@ -106,7 +106,7 @@ Also at 8th level, whenever you use your minion's sacrifice action. You force an
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>Classes</div>  
+<div class='footnote'>[art](https://www.artstation.com/artwork/W2B5Ay) by David Cornish</div>  
 
 
 
@@ -159,4 +159,4 @@ ___
 
   
 <div class='pageNumber auto'></div>
-<div class='footnote'>[Jatembe](https://www.deviantart.com/windmaker/art/Old-Mage-Jatembe-403140839) by Windmaker - [undead dogs](https://br.pinterest.com/pin/344525440240567967/?lp=true) unknow </div>  
+<div class='footnote'>[art](https://www.deviantart.com/windmaker/art/Old-Mage-Jatembe-403140839) by Windmaker - [undead dogs](https://br.pinterest.com/pin/344525440240567967/?lp=true) unknow </div>  

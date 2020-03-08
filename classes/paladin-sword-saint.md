@@ -101,7 +101,7 @@ Starting at 7th level, the first creature you hit on each of your turns with a w
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>[Fierce](https://www.deviantart.com/miguelcoimbra/art/Fierce-567526922) by Miguel Coimbra</div>  
+<div class='footnote'>[art](https://www.deviantart.com/miguelcoimbra/art/Fierce-567526922) by Miguel Coimbra</div>  
 
 
 \page

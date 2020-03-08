@@ -145,5 +145,5 @@ Beginning at 10th level, you can direct your magic to absorb damage while your B
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>[Ezuri, Renegade Leader](https://www.artstation.com/artwork/4KPPq) by Victor Adame</div>  
+<div class='footnote'>[art](https://www.artstation.com/artwork/4KPPq) by Victor Adame</div>  
 

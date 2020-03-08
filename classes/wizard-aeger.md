@@ -91,7 +91,7 @@ You are encouraged to talk with your DM and discuss any roleplaying aspects to h
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>art by WotC (Monster Manual p. 223)</div>  
+<div class='footnote'>art from WotC, Monster Manual p. 223</div>  
 
 
 
@@ -145,5 +145,5 @@ ___
 
   
 <div class='pageNumber auto'></div>
-<div class='footnote'>[Estra](https://www.artstation.com/artwork/q0DwD) by Jesus Blones</div>  
+<div class='footnote'>[art](https://www.artstation.com/artwork/q0DwD) by Jesus Blones</div>  
 

@@ -87,5 +87,5 @@ Beginning at 10th level, you can change the song/effect of your battle chant at 
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>art from Camelot Unchained, [Skald](https://camelotunchained.com/v3/realms/vikings/skald/)</div>  
+<div class='footnote'>art from [Camelot Unchained](https://camelotunchained.com/v3/realms/vikings/skald/)</div>  
 

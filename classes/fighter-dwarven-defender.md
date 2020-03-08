@@ -114,5 +114,5 @@ Additionally, your defensive stance AC bonus increases to +2.
 
 
 <div class='pageNumber auto'></div>
-<div class='footnote'>[Dwarf Warrior](https://www.artstation.com/artwork/9OBRR) by Dio Mahesa</div>  
+<div class='footnote'>[art](https://www.artstation.com/artwork/9OBRR) by Dio Mahesa</div>  
 
