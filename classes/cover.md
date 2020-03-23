@@ -89,17 +89,17 @@ Max Dumbar
 
 # Disclaimers
 
-## General
+### General
 
 These are some of the classes that I miss from old editions of dungeons and dragons as well as classes from several games that I played and that are found to me. 
 
-I hope that with these homebrews, I make honor to their legacy. Some of the text is not mine, but rather copied from the classes original web sites, e.g., the dwarven class description is taken from the Forgotten Realms wiki and the Bleak Walker from the Pillars of Eternity wiki. As this material is not for comercial purposes, I left the text as it is. If I ever publish these classes at DMs guild or a web site, I will update the text.
+I hope that with these homebrews, I make honor to their legacy. Some of the text is not mine, but rather copied from the classes original web sites, e.g., the dwarven defender class description is taken from the Forgotten Realms wiki and the Bleak Walker from the Pillars of Eternity wiki. As this material is not for comercial purposes, I left the text as it is. If I ever publish these classes at DMs guild or a web site, I will update the text.
 
 
 I am not a native speaker, yet I prefer to write in english as I get more exposure. Please, forgive any typos.
 
 
-## On Rules and Game Mechanics
+### On Rules and Game Mechanics
 
 Most of the classes have some power resources limited by a certain amount of times, e.g., three times a day or Wisdom modifier times per short rest. This decision is on purpose. It revives a little bit of old mechanics. Besides, it adds more resource managements and this is something that I really stress on my campaign.
 
@@ -111,7 +111,7 @@ Some other classes have prerequisites, implict or explicit. For example, its saf
 
 Finally, some class features are basically features available to other classes and that I ''borrowed'' to my subclasses due to thematic or cosmetic reasons. For instance, the Earthshaker Geomagnetic Blast is the same as the Warlock Eldritch Blast.
 
-## Classes
+### Classes
 
 
 
@@ -119,12 +119,14 @@ Finally, some class features are basically features available to other classes a
 <div class='toc'>
 ##### Classes and new Subclasses
 
+- Barbarian
+  - **[Fell Reaver](#p3)** - barbarians with a demonic rage. Inspired by WoW fell orcs.
 - Bard
   - **[Bladesinger](#p3)** - moving the blade singer from arcane tradition to a bard school
   - **[Chanter](#p4)** - a bard that relies of singing. Inspired by the Chanter from Pillars of Eternity
 - Cleric
   - **[Bleak Walker](#p5)** - a more combat oriented cleric. I don't like the battle cleric and the bleak walker tries to fill the role of the war domain in my campaign
-  - **[The Witch Doctor](#p6)** - a more arcane oriented cleric. Inspired by the Witch Doctor from Diablo 3
+  - **[Witch Doctor](#p6)** - a more arcane oriented cleric. Inspired by the Witch Doctor from Diablo 3
 - Druid 
   - **[Earthshaker](#p8)** - an elemental oriented druid. Inspired by the Earthshaker and Stone Spirit from Dota 2
 - Fighter 
