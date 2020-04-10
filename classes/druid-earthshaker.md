@@ -3,7 +3,6 @@
 
 Druids that mold the earth to their will. An earthshaker has the fury of an earthquake  or the gentleness of drift sand. No one can tell. In battle, an earthshaker uses its druidic magic to create protective stone armour or to barrage enemis with stone pin missiles.
 
-<br>
 
 
 
@@ -28,6 +27,8 @@ At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that le
 Once you gain access to one of these spells, you always have it prepared, and it doesn’t count against the number of spells you can prepare each day. If you gain access to a spell that doesn’t appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 
+
+
 ## Stone Endurance
 
 
@@ -46,11 +47,6 @@ As an bonus action, you can expend a use of your Wild Shape feature to awaken yo
 * **Stone rebuke:** The first time a creature hits you with an attack in a turn, that creature takes bludgeoning damage equal to your level in this class. 
 
 
-<div class='descriptive'>
-#### Game mechanics:
-
-The stone rebuke damage works similarly to a sneak attack, which means that creatures take this damage if they hit you with attacks of opportunity  or whenever they attack in other creatures' turn.
-</div>
 
 
 * **Empowered Blast**: add your Wisdom modifier to the damage of any stone missile of  your geomagnetic blast.
@@ -59,18 +55,23 @@ The stone rebuke damage works similarly to a sneak attack, which means that crea
 These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.
 
 
+<div class='descriptive'>
+#### Game mechanics:
+
+The stone rebuke damage works similarly to a sneak attack, which means that creatures take this damage if they hit you with attacks of opportunity  or whenever they attack in other creatures' turn.
+</div>
+
+
 ## Aftershock
 
 
 At 6th level, you can further empower your geomagnetic blast with a aftershock effect. 
 
 Once per turn, you may expend a druid spell slot to cause one of your stone missiles to deal extra damage. The extra damage is 1d8 per level of the spell slot, to a maximum of 5d8. 
-
 Additionally, whenever your earth revenant class feature is active, a creature hit by a empowered stone missile must also succeed on a Constitution saving throw against your spell save DC or be stunned until the end of your next turn.
 
 
 
-<br>
 
 <div class='classTable'>
 ##### The Earthshaker
@@ -85,6 +86,7 @@ Additionally, whenever your earth revenant class feature is active, a creature h
 <div style="text-align: right;">
 Your spell's always have stone and debris effects, e.g., otiluke's sphere might look more like a earth/stone dome * 
 </div>
+
 
 <img
   src='https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0f406aed-dede-4cd6-95d9-49f9a7f4b61e/dbqrmnp-ca7b4bb8-816e-44f7-be59-1fea2c08927c.jpg/v1/fill/w_1024,h_1025,q_75,strp/earthshaper_by_creativesketcher_dbqrmnp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNSIsInBhdGgiOiJcL2ZcLzBmNDA2YWVkLWRlZGUtNGNkNi05NWQ5LTQ5ZjlhN2Y0YjYxZVwvZGJxcm1ucC1jYTdiNGJiOC04MTZlLTQ0ZjctYmU1OS0xZmVhMmMwODkyN2MuanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.HHC4ehO-flPhftWIWavrvyyfQTgChOd37b8SJXJcGxA'
@@ -136,7 +138,6 @@ Your spell's always have stone and debris effects, e.g., otiluke's sphere might 
 \page
 
 
-
 ## Echo Slam
 
 
@@ -149,6 +150,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 
 
 
+
 <div class='descriptive'>
 #### Game mechanics:
 
@@ -157,14 +159,8 @@ A prone creature has disadvantage on their attack rolls and it must spend half o
 
 
 
-## Craggy Exterior
 
-At 14th level, the minerals and stone of your earth armor alter you: you can’t be blinded, deafened, frightened, or poisoned, and any critical hit against you counts as a normal hit, unless you are incapacitated.
-
-
-
-
-## Spells
+### Spells
 
 
 #### Geomagnetic Blast
@@ -223,3 +219,4 @@ The spell creates more than one stone missiles when you reach higher levels: two
 
 <div class='pageNumber auto'></div>
 <div class='footnote'>[earth wizard](https://www.artstation.com/artwork/obozm) by Zhang Wenbo</div>  
+

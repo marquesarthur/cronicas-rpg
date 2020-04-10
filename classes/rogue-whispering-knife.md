@@ -20,7 +20,7 @@ You magically attune to up to four weapons in your possession with the light and
 
 
 
-You can absorb the properties of one one-handed Magic Weapon by performing a special ritual while you study the weapon. You perform the ritual over the course of 1 hour, which can be done during a Short Rest. At the end of the ritual, the original weapon is destroyed and any of your whisper knives have the magical properties of the absorbed magic weapon. You can’t affect an artifact or a sentient weapon in this way. 
+You can absorb the properties of one one-handed Magic Weapon by performing a special ritual while you study the weapon. You perform the ritual over the course of 1 hour, which can be done during a Short Rest. At the end of the ritual, the original weapon is destroyed and any of your whisper knives have the magical properties of the absorbed magic weapon. You can’t affect an artifact or a sentient weapon in this way and you cannot absorb a property that does not match your weapon whisper weapon. 
 Whenever you absorb a new item, the properties of the previous one cease to exist.
 
 
@@ -33,19 +33,18 @@ You can use this feature a number of times equals to your Dexterity modifier.
 You regain all expended uses of it when you finish a long rest.
 
 
-## Knife Barrage
-By 13th level, when you use the Attack action and make a ranged attack with a one handed weapon, make one additional attack. You automatically draw a throwing weapon for this extra attack.
-
-
 
 ## Pierce the Veil
 Like a ghost, you have the ability to slip in and out of the Ethereal Plane. 
 
-Starting at the 17th level, you can use your cunning action in your first turn of a combat to cast the blink spell. Even in the etheral plane, you can still use your deadly reflexes class feature and affect creatures in the material plane, as your thrown knifes pierce the veil between the two planes.
+Starting at the 13th level, you can use your cunning action in your first turn of a combat to cast the blink spell. Even in the etheral plane, you can still use your deadly reflexes class feature and affect creatures in the material plane, as your thrown knifes pierce the veil between the two planes.
 
 <br>
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
+
+## Knife Barrage
+By 17th level, when you use the Attack action and make a ranged attack with a one handed weapon, make one additional attack. You automatically draw a throwing weapon for this extra attack.
 
 
   

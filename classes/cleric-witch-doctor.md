@@ -159,4 +159,4 @@ ___
 
   
 <div class='pageNumber auto'></div>
-<div class='footnote'>[art](https://www.deviantart.com/windmaker/art/Old-Mage-Jatembe-403140839) by Windmaker - [undead dogs](https://br.pinterest.com/pin/344525440240567967/?lp=true) unknow </div>  
+<div class='footnote'>[art](https://www.deviantart.com/windmaker/art/Old-Mage-Jatembe-403140839) by Windmaker ---- [undead dogs](https://br.pinterest.com/pin/344525440240567967/?lp=true) unknow </div>  
