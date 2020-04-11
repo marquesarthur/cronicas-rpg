@@ -21,7 +21,7 @@ ___
 
 Starting at **3rd level**, you have learned to fight against spellcasters and creatures from other planes. You gain the following benefits:
 
-* You can spend one ki point to grant yourself a bonus to a spell save. Roll your martial dice and add the result to your save. You can use this feature after you see your save roll but before knowing the result.
+* You can spend one ki point to grant yourself a bonus to a spell save or against saves of effects from Undead or Fiend creatures, such as a Banshee's wail. Roll your martial dice and add the result to your save. You can use this feature after you see your save roll but before knowing the result.
 * Once per turn whenever you hit a creature with one of the attacks granted by your Flurry of Blows, you can spend one ki point to cast two magical darts (1d4+1 force damage each) similar to the Magic Missile spell. The darts target either the original target or on a new one. At 11th level, you cast three darts instead.
 
 
@@ -31,8 +31,8 @@ ___
 
 Starting at **6th level**, you have learned to disrupt enemy spell casters.
 
-* As a reaction, you can spend a ki point to counter spell a 3rd level or lower spell. To counter spells of higher levels, add one extra ki point per spell level, e.g., to counter a 4th level spell, you must spend 2 ki points while a 5th level spell requires 3 ki points. You cannot counter spells of 6th level or higher with this feature. Additionally, you gain 5 temporary hit points per spell level as you absorb part of the countered spell. 
-* Using a bonus action, you can spend a ki point to teleport 15 or more feet. Roll your martial dice. You teleport an extra 5 times the number rolled. For instance, a result of 1 would allow you to teleport up to 20 feet while a 6 would allow you to teleport up to 45 feet.
+* As a reaction, you can spend a ki point to counter spell a 3rd level or lower spell. To counter spells of higher levels, add one extra ki point per spell level, e.g., to counter a 4th level spell, you must spend 2 ki points while a 5th level spell requires 3 ki points. You cannot counter spells of 6th level or higher with this feature. Additionally, you gain 5 temporary hit points per spell level as you absorb part of the energy of the countered spell. 
+* Using a bonus action, you can spend a ki point to teleport 20 feet to an unoccupied space.
 
 
 
