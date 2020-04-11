@@ -36,6 +36,7 @@ ___
 * <a href="{{ site.baseurl }}/cleric/doctor">Cleric -- Witch Doctor</a>
 * <a href="{{ site.baseurl }}/druid/shaker">Druid -- Earthshaker</a>
 * <a href="{{ site.baseurl }}/fighter/defender">Fighter -- Dwarven Defender</a>
+* <a href="{{ site.baseurl }}/monk/stasis">Monk -- Spellstasis</a>
 * <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
 * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
