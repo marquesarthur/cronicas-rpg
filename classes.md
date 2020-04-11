@@ -42,7 +42,9 @@ ___
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
 * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 
-<br><br><br><br>
+<br><br>
+<p class="center italics">sketches by Max Dunbar</p>
+<br><br>
 
 
 <img src='https://pbs.twimg.com/media/C8XkxEvUAAEMhpx.jpg'
