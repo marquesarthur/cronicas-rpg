@@ -20,7 +20,7 @@ description: >
 tagline: Mâb le i nagor, Bâd gurth vi ngalad firiel.
 date: false
 baseurl: "/cronicas-rpg" # the subpath of your site, e.g. /blog
-url: "http://johncoene.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marquesarthur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author: Arthur Marques
 
 
@@ -41,7 +41,7 @@ social:
 # Build settings
 exclude: README.md
 markdown: kramdown
-theme: jekyll-theme-cayman
+
 gems:
   - jekyll-feed
   - jekyll-seo-tag
