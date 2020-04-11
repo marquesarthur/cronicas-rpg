@@ -1,7 +1,7 @@
 ---
 layout: about
 title: Classes
-permalink: /classes
+permalink: /classes/
 ---
 
 
@@ -23,30 +23,21 @@ Most of the classes have some power resources limited by a certain amount of tim
 Most of my games cap at 10th level. For this reason, some of the classes do not have features after this level. For the same reason, some mechanics that tip the power balance early in the game appear as 6th or 8th level class features. Use discretion around some of the described class powers and fell free to shuffle them as you wish.
 
 
-Some other classes have prerequisites, implict or explicit. For example, its safe to assume that a dwarven defender is a dwarf exclusive subclass. At your DM discretion, members of other races can pick these subclasses.
+Some other classes have prerequisites, implicit or explicit. For example, its safe to assume that a dwarven defender is a dwarf exclusive subclass. At your DM discretion, members of other races can pick these subclasses.
 
 Finally, some class features are basically features available to other classes and that I ''borrowed'' to my subclasses due to thematic or cosmetic reasons. For instance, the Earthshaker Geomagnetic Blast is the same as the Warlock Eldritch Blast.
 
 
-* Barbarian
-    * <a href="{{ site.baseurl }}/barbarian/reaver">Fell Reaver</a>
-* Bard
-    * <a href="{{ site.baseurl }}/bard/chanter">Chanter</a>
-* Cleric
-    * <a href="{{ site.baseurl }}/cleric/bleak">Bleak Walker</a>
-    * <a href="{{ site.baseurl }}/cleric/doctor">Witch Doctor</a>
-* Druid
-    * <a href="{{ site.baseurl }}/druid/shaker">Earthshaker</a>
-* Fighter
-    * <a href="{{ site.baseurl }}/fighter/defender">Dwarven Defender</a>
-* Paladin
-    * <a href="{{ site.baseurl }}/paladin/saint">Sword Saint</a>
-* Ranger
-    * <a href="{{ site.baseurl }}/ranger/dervish">Dervish</a>
-    * <a href="{{ site.baseurl }}/ranger/sniper">Deepwood Sniper</a>
-* Rogue
-    * <a href="{{ site.baseurl }}/rogue/whisper">Whispering Knife</a>
-* Wizard
+  * <a href="{{ site.baseurl }}/barbarian/reaver">Barbarian -- Fell Reaver</a>
+  * <a href="{{ site.baseurl }}/bard/chanter">Bard -- Chanter</a>
+  * <a href="{{ site.baseurl }}/cleric/bleak">Cleric -- Bleak Walker</a>
+  * <a href="{{ site.baseurl }}/cleric/doctor">Cleric -- Witch Doctor</a>
+  * <a href="{{ site.baseurl }}/druid/shaker">Druid -- Earthshaker</a>
+  * <a href="{{ site.baseurl }}/fighter/defender">Fighter -- Dwarven Defender</a>
+  * <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
+  * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
+  * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
+  * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 
 
 
