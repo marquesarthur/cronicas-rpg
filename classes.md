@@ -9,10 +9,10 @@ permalink: /classes
 
 These are some of the classes that I miss from old editions of dungeons and dragons as well as classes from several games that I played and that are found to me. 
 
-I hope that with these homebrews, I make honor to their legacy. Some of the text is not mine, but rather copied from the classes original web sites, e.g., the dwarven defender class description is taken from the Forgotten Realms wiki and the Bleak Walker from the Pillars of Eternity wiki. As this material is not for comercial purposes, I left the text as it is. If I ever publish these classes at DMs guild or a web site, I will update the text.
+I hope that with these homebrews, I make honor to their legacy. Some of the text is not mine, but rather copied from the classes original web sites, e.g., the dwarven defender class description is taken from the Forgotten Realms wiki and the Bleak Walker from the Pillars of Eternity wiki. As this material is not for commercial purposes, I left the text as it is. If I ever publish these classes at DMs guild, I will update the text.
 
 
-I am not a native speaker, yet I prefer to write in english as I get more exposure. Please, forgive any typos.
+I am not a native speaker, yet I prefer to write in English as I get more exposure. Please, forgive any typos.
 
 
 ### On Rules and Game Mechanics
@@ -23,19 +23,30 @@ Most of the classes have some power resources limited by a certain amount of tim
 Most of my games cap at 10th level. For this reason, some of the classes do not have features after this level. For the same reason, some mechanics that tip the power balance early in the game appear as 6th or 8th level class features. Use discretion around some of the described class powers and fell free to shuffle them as you wish.
 
 
-Some other classes have prerequisites, implict or explicit. For example, its safe to assume that a dwarven defender is a dwarf exclusive subclass or that a bladesinger is an elf or half-elf exclusive subclass. At your DM discretion, members of other races can pick these subclasses.
+Some other classes have prerequisites, implict or explicit. For example, its safe to assume that a dwarven defender is a dwarf exclusive subclass. At your DM discretion, members of other races can pick these subclasses.
 
 Finally, some class features are basically features available to other classes and that I ''borrowed'' to my subclasses due to thematic or cosmetic reasons. For instance, the Earthshaker Geomagnetic Blast is the same as the Warlock Eldritch Blast.
 
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
-
-  
-
-
-
+* Barbarian
+    * <a href="{{ site.baseurl }}/barbarian/reaver">Fell Reaver</a>
+* Bard
+    * <a href="{{ site.baseurl }}/bard/chanter">Chanter</a>
+* Cleric
+    * <a href="{{ site.baseurl }}/cleric/bleak">Bleak Walker</a>
+    * <a href="{{ site.baseurl }}/cleric/doctor">Witch Doctor</a>
+* Druid
+    * <a href="{{ site.baseurl }}/druid/shaker">Earthshaker</a>
+* Fighter
+    * <a href="{{ site.baseurl }}/fighter/defender">Dwarven Defender</a>
+* Paladin
+    * <a href="{{ site.baseurl }}/paladin/saint">Sword Saint</a>
+* Ranger
+    * <a href="{{ site.baseurl }}/ranger/dervish">Dervish</a>
+    * <a href="{{ site.baseurl }}/ranger/sniper">Deepwood Sniper</a>
+* Rogue
+    * <a href="{{ site.baseurl }}/rogue/whisper">Whispering Knife</a>
+* Wizard
 
 
 
@@ -49,7 +60,6 @@ Finally, some class features are basically features available to other classes a
 <img src='https://66.media.tumblr.com/f611907dc9db0cee7f3bdbd8bcff3336/tumblr_nrfrzcuRpz1u6lt0ro1_1280.jpg'
   style='position:absolute;bottom:170px;right:580px;width:250px;mix-blend-mode:multiply'/>  
 
-
   
 <img src='https://ifanboy.com/wp-content/uploads/2013/02/character_sketch_by_max_dunbar-d4r8oif.jpg'
   style='position:absolute;bottom:60px;right:250px;width:250px;mix-blend-mode:multiply'/>  
@@ -74,15 +84,9 @@ Finally, some class features are basically features available to other classes a
 <img src='https://i.pinimg.com/originals/5d/61/62/5d6162e87f9a55525f7d6f5bb26041d2.jpg'
   style='position:absolute;bottom:170px;right:35px;width:250px;mix-blend-mode:multiply'/>    
   
-  
-
-
-
 
 <img src='https://i.pinimg.com/originals/6d/14/58/6d145881493f6efac1d71f312060d7cb.jpg'
   style='position:absolute;bottom:10px;right:600px;width:250px;mix-blend-mode:multiply'/>  
-  
-
 <img src='https://i.pinimg.com/originals/6d/14/58/6d145881493f6efac1d71f312060d7cb.jpg'
   style='position:absolute;bottom:10px;right:600px;width:250px;mix-blend-mode:multiply'/>  
   
