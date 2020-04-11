@@ -14,6 +14,7 @@ I hope that with these homebrews, I make honor to their legacy. Some of the text
 
 I am not a native speaker, yet I prefer to write in English as I get more exposure. Please, forgive any typos.
 
+___
 
 ### On Rules and Game Mechanics
 
@@ -27,19 +28,20 @@ Some other classes have prerequisites, implicit or explicit. For example, its sa
 
 Finally, some class features are basically features available to other classes and that I ''borrowed'' to my subclasses due to thematic or cosmetic reasons. For instance, the Earthshaker Geomagnetic Blast is the same as the Warlock Eldritch Blast.
 
+___
 
-  * <a href="{{ site.baseurl }}/barbarian/reaver">Barbarian -- Fell Reaver</a>
-  * <a href="{{ site.baseurl }}/bard/chanter">Bard -- Chanter</a>
-  * <a href="{{ site.baseurl }}/cleric/bleak">Cleric -- Bleak Walker</a>
-  * <a href="{{ site.baseurl }}/cleric/doctor">Cleric -- Witch Doctor</a>
-  * <a href="{{ site.baseurl }}/druid/shaker">Druid -- Earthshaker</a>
-  * <a href="{{ site.baseurl }}/fighter/defender">Fighter -- Dwarven Defender</a>
-  * <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
-  * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
-  * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
-  * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
+* <a href="{{ site.baseurl }}/barbarian/reaver">Barbarian -- Fell Reaver</a>
+* <a href="{{ site.baseurl }}/bard/chanter">Bard -- Chanter</a>
+* <a href="{{ site.baseurl }}/cleric/bleak">Cleric -- Bleak Walker</a>
+* <a href="{{ site.baseurl }}/cleric/doctor">Cleric -- Witch Doctor</a>
+* <a href="{{ site.baseurl }}/druid/shaker">Druid -- Earthshaker</a>
+* <a href="{{ site.baseurl }}/fighter/defender">Fighter -- Dwarven Defender</a>
+* <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
+* <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
+* <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
+* <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 
-
+___
 
 
 <img src='https://pbs.twimg.com/media/C8XkxEvUAAEMhpx.jpg'
