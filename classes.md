@@ -41,7 +41,7 @@ ___
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
 * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 
-___
+<br><br><br><br>
 
 
 <img src='https://pbs.twimg.com/media/C8XkxEvUAAEMhpx.jpg'
@@ -84,7 +84,7 @@ ___
   style='position:absolute;bottom:10px;right:600px;width:250px;mix-blend-mode:multiply'/>  
   
 
-
+<p class="center italics"><img src='https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png' style='mix-blend-mode:multiply' width="10%"/></p>
 
   
 
