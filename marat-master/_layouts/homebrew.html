@@ -12,12 +12,8 @@
     <main>
       <div class="container">
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
-        <p class="center">[&nbsp;N<sup>o</sup>{% for post in site.homebrewed %}
-              {% if post.title == page.title %}
-              {{ forloop.index | roman }}
-              {% endif %}
-              {% endfor %}&nbsp;]
-        <span>&nbsp;{{ page.keywords }}</span></p>
+        <p class="center">
+        <span>&nbsp;&nbsp;{{ page.keywords }}</span></p>
         <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
 
         <h2 class="brand center" id="title">{{ page.title | upcase }}</h2>
@@ -35,6 +31,8 @@
         </div>
 
         <p class="right italics">{{ page.author }}</p>
+        <p class="center italics"><img src='https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png' style='mix-blend-mode:multiply' width="10%"/></p>
+        
       </div>
     </main>
 
