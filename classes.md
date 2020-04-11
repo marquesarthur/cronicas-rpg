@@ -4,6 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 
+<p class="center italics"><img src='https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png' style='mix-blend-mode:multiply' width="10%"/></p>
 
 ### General
 
@@ -83,8 +84,6 @@ ___
 <img src='https://i.pinimg.com/originals/6d/14/58/6d145881493f6efac1d71f312060d7cb.jpg'
   style='position:absolute;bottom:10px;right:600px;width:250px;mix-blend-mode:multiply'/>  
   
-
-<p class="center italics"><img src='https://i.pinimg.com/originals/48/cb/53/48cb5349f515f6e59edc2a4de294f439.png' style='mix-blend-mode:multiply' width="10%"/></p>
 
   
 
