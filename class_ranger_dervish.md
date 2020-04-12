@@ -70,8 +70,7 @@ Make a contested attack roll against all the creature's attack rolls on that tur
 The damage roll alternates between your main-hand weapon and your off-hand weapon. For example, if you deflect three attacks using this feature, the first damage roll is from your main-hand weapon, the second from your off-hand weapon and the last, from your main-hand again.
 
 
-You can use this feature a number of times equals to your Dexterity modifier.
-You regain all expended uses of it when you finish a long rest.
+You can use this feature three times. You regain all expended uses of it when you finish a long rest.
 
 
 <img

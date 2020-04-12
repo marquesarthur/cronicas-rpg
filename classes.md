@@ -41,6 +41,7 @@ ___
 * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
 * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
+* <a href="{{ site.baseurl }}/wizard/sevenfold">Wizard -- Initiate of the Sevenfold Veil</a>
 
 <br><br>
 <p class="center italics">sketches by Max Dunbar</p>

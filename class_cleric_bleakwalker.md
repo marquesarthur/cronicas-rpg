@@ -20,6 +20,14 @@ ___
 When you choose this domain at **1st level**, you call upon your god's inner wrath, making you a fearsome foe in the battlefield. You gain a +1 bonus to attack and damage rolls with any melee weapon.
 
 
+| Cleric level | Spells  |
+|:---:|:---:|
+| 1st | Armor of Agathys, Wrathful Smite |
+| 3rd | Enlarge/Reduce, Shatter |
+| 5th | Lightning Bolt, Spirit Guardians |
+| 7th | Fire Shield, Otiluke’s Resilient Sphere |
+| 9th | Circle of Power, Destructive Wave |
+
 ___
 
 ## Channel Divinity: Sacred Immolation
@@ -32,14 +40,6 @@ Up to three Enemies in the area take 1d6 + your Wisdom modifier radiant or necro
 
 The immolation damage increases by one die when you reach 5th level (2d6), and 11th level (3d6). The hit points regained increase to twice your Wisdom modifier when you reach 11th level.
 
-
-| Cleric level | Spells  |
-|:---:|:---:|
-| 1st | Armor of Agathys, Wrathful Smite |
-| 3rd | Enlarge/Reduce, Shatter |
-| 5th | Lightning Bolt, Spirit Guardians |
-| 7th | Fire Shield, Otiluke’s Resilient Sphere |
-| 9th | Circle of Power, Destructive Wave |
 
 
 ___
