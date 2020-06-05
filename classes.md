@@ -38,6 +38,7 @@ ___
 * <a href="{{ site.baseurl }}/fighter/defender">Fighter -- Dwarven Defender</a>
 * <a href="{{ site.baseurl }}/monk/stasis">Monk -- Spellstasis</a>
 * <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
+* <a href="{{ site.baseurl }}/paladin/zealer">Paladin -- Zealer</a>
 * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
 * <a href="{{ site.baseurl }}/ranger/falconer">Ranger -- Falconer</a>
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
@@ -60,11 +61,11 @@ ___
 <img src='https://66.media.tumblr.com/f611907dc9db0cee7f3bdbd8bcff3336/tumblr_nrfrzcuRpz1u6lt0ro1_1280.jpg'
   style='position:absolute;bottom:170px;right:580px;width:250px;mix-blend-mode:multiply'/>  
 
-  
+<!--   
 <img src='https://ifanboy.com/wp-content/uploads/2013/02/character_sketch_by_max_dunbar-d4r8oif.jpg'
   style='position:absolute;bottom:60px;right:250px;width:250px;mix-blend-mode:multiply'/>  
 <img src='https://ifanboy.com/wp-content/uploads/2013/02/character_sketch_by_max_dunbar-d4r8oif.jpg'
-  style='position:absolute;bottom:60px;right:250px;width:250px;mix-blend-mode:multiply'/>  
+  style='position:absolute;bottom:60px;right:250px;width:250px;mix-blend-mode:multiply'/>  --> 
 
 
 <img src='https://i.pinimg.com/originals/db/b5/04/dbb504d42d4887154bc440befa293dc2.jpg'
