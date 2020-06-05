@@ -41,7 +41,7 @@ ___
 
 A noble Paladin, fervent in his dedication to righteousness, can draw upon the spirit of that dedication to perform seemingly impossible tasks. When surrounded by his enemies, a Paladin versed in this skill sets upon his adversaries with the zealous fervor of many times his number. 
 
-Starting at **7th level**, you can use your reaction twice per round. Whenever you take the Attack action, you can make one additional melee attack to an additional target. You can use this feature a number of times equal to your Charisma or Strength modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+Starting at **7th level**, you can use your reaction twice per round. Whenever you take the Attack action, you can make one additional melee attack to an additional target. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 
 ___
