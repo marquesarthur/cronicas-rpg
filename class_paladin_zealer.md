@@ -58,7 +58,7 @@ To a Paladin, the shield is a symbol of his faith. Particularly devout Paladins 
 
 Beginning at **15th level**, you are always under the Effects of the *Shield of Faith* spell; no concentration required. 
 
-Additionally, if you fail a saving throw, you can roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can’t use it again until you finish a short or long rest.
+Additionally, if an ally fails a saving throw inside your aura, you can expend one of your reactions to roll 2d4 and add it to the total, possibly changing the outcome. Once you use this feature, you can’t use it again until you finish a long rest.
 
 
 <br>
