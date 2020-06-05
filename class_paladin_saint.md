@@ -37,6 +37,8 @@ You can end this effect on your turn as part of any other action. If you are no 
 
 ## Blade Barrier
 
+Those who would strike the emissaries of the Light had best take warning, for retribution shall be swift and certain.
+
 Starting at **7th level**, you can use your reaction provided that a creature moves within 10 feet of you.
 You move 5 feet before the attack and then, you make a melee opportunity attack against it. If you hit the creature, its speed drops to 0 for the rest of the turn. This stops any movement they may have been taking.
 
@@ -44,6 +46,8 @@ ___
 
 
 ## Relentless Blade
+
+A serene sense of lucidity eases the minds of the Paladin, giving them the freedom to focus on individual tasks despite the chaos and distractions of battle. This sense of tranquility allows the Paladin to strike calculated and devastating blows.
 
 Beginning at **15th level**, you can use your Channel Divinity twice between rests. In addition to any other benefits your channel divinity provides, when you score a critical hit with the weapon or use your Divine Smite feature, you can make one extra melee weapon attack as a bonus action. This feature synergizes with your sword saint spells, e.g., if you cast Judgment Blade and smite as part of the attack, you can make one extra attack as a bonus action. 
 
@@ -66,7 +70,7 @@ ___
 Sword Saint Spells are one of the most well kept secrets of the order. You cannot acquire these spells through the lore bard magical secret class feature. College of valor or sword bards can still learn these spells.  
 
 
-Starting at **3rd level**, you have learned to regain some of your magical energy by meditating on your sword-play. Once per day when you finish a Short Rest, you can choose expended Spell Slots to recover. The Spell Slots can have a combined level that is equal to or less than half your Paladin level (rounded up), and none of the slots can be 3rd level or higher.
+Starting at **3rd level**, you have learned to regain some of your magical energy by meditating on your sword-play. Once per day when you finish a Short Rest, you can choose expended Spell Slots to recover. The Spell Slots can have a combined level that is equal to or less than half your Paladin level (rounded down), and none of the slots can be 3rd level or higher.
 
 
 #### Hellcry Punch
