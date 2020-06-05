@@ -21,7 +21,7 @@ ___
 
 
 ## Channel Divinity
-When you take this oath at **3rd level**, you gain the following two Channel Divinity options.
+When you take this oath at **3rd level**, you gain the following Channel Divinity option.
 
 
 **Hallow Weapon.** As a bonus action, you can imbue one sword that you are holding with positive/negative energy, using your Channel Divinity. For 1 minute, when you score a critical hit with the weapon or use your Divine Smite feature, you can make one melee weapon attack as a bonus action. If the weapon is not already magical, it becomes magical for the duration.
@@ -29,7 +29,6 @@ When you take this oath at **3rd level**, you gain the following two Channel Div
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
 
-**Center Stance.** As an bonus action, you gain inner focus and reflexes in combat, using your Channel Divinity. For 1 minute, when a creature hits you with an Attack, you gain your Charisma modifier bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
 
 
  ___
@@ -65,6 +64,10 @@ ___
 ### Sword Saint Spells
 
 Sword Saint Spells are one of the most well kept secrets of the order. You cannot acquire these spells through the lore bard magical secret class feature. College of valor or sword bards can still learn these spells.  
+
+
+Starting at **3rd level**, you have learned to regain some of your magical energy by meditating on your sword-play. Once per day when you finish a Short Rest, you can choose expended Spell Slots to recover. The Spell Slots can have a combined level that is equal to or less than half your Paladin level (rounded up), and none of the slots can be 3rd level or higher.
+
 
 #### Hellcry Punch
 *1st-level evocation*
