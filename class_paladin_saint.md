@@ -45,7 +45,7 @@ ___
 
 ## Relentless Blade
 
-Beginning at **15th level**, you can use your Channel Divinity twice between rests. In addition to any other benefits your channel divinity provides, when you score a critical hit with the weapon or use your Divine Smite feature, you can make one extra melee weapon attack as a bonus action. This feature synergizes with your sword saint spells, e.g., if you cast Judgment Blade and spend one divine smite as part of the attack, you can make one extra attack as a bonus action. 
+Beginning at **15th level**, you can use your Channel Divinity twice between rests. In addition to any other benefits your channel divinity provides, when you score a critical hit with the weapon or use your Divine Smite feature, you can make one extra melee weapon attack as a bonus action. This feature synergizes with your sword saint spells, e.g., if you cast Judgment Blade and smite as part of the attack, you can make one extra attack as a bonus action. 
 
 
 <br>
