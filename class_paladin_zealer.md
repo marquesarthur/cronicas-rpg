@@ -30,7 +30,13 @@ At level 6th when you gain your aura of protection class feature, the extra dama
 At level 6th when you gain your aura of protection class feature, the extra damage applies to **one** extra target in your aura.
 
 
+Starting at **11th level**, your Channel divinity ignores resistance. 
+
+
 The effect lasts for 1 minute. You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+
+
+
 
 
 <div style="text-align: right;">
