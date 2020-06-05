@@ -11,26 +11,31 @@ permalink: /paladin/zealer
 
 ## Prerequisite
 
-You must have a shield as your holy symbol.
+You must have a shield as your holy symbol. You class feature powers only work on swords, maces, and hammers.
 
 
 ## Channel Divinity
 When you take this oath at **3rd level**, you gain the holy fire and holy freeze Channel Divinity options. At **5th level**, you gain the holy shock Channel Divinity option.
 
 
-<span class="glyphicon glyphicon-fire"></span> **Holy Fire.** As a bonus action, you can imbue one sword that you are holding with holy fire energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d8 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried. At level 6th when you gain your aura of protection class feature, the extra damage applies to **any** enemy in your aura.
+<span class="glyphicon glyphicon-fire"></span> **Holy Fire.** As a bonus action, you can imbue one weapon* that you are holding with holy fire energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d8 fire damage. A flammable object hit by this spell ignites if it isn’t being worn or carried. At level 6th when you gain your aura of protection class feature, the extra damage applies to **any** enemy in your aura.
 
 
-<span class="glyphicon glyphicon-certificate"></span> **Holy Freeze.** As a bonus action, you can imbue one sword that you are holding with holy freezing energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d6 cold damage and its speed is reduced by 10 feet until the start of your next turn.
+<span class="glyphicon glyphicon-certificate"></span> **Holy Freeze.** As a bonus action, you can imbue one weapon* that you are holding with holy freezing energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d6 cold damage and its speed is reduced by 10 feet until the start of your next turn.
 At level 6th when you gain your aura of protection class feature, the extra damage and speed reduction applies to **two** extra targets in your aura.
 
 
 
-<span class="glyphicon glyphicon-flash"></span> **Holy Shock.** As a bonus action, you can imbue one sword that you are holding with holy lightning energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d6 lightning damage and it can’t take reactions until the start of its next turn.
+<span class="glyphicon glyphicon-flash"></span> **Holy Shock.** As a bonus action, you can imbue one weapon* that you are holding with holy lightning energy, using your Channel Divinity. Once per turn, when you hit with the weapon, you deal 1d6 lightning damage and it can’t take reactions until the start of its next turn.
 At level 6th when you gain your aura of protection class feature, the extra damage applies to **one** extra target in your aura.
 
-You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
+The effect lasts for 1 minute. You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
+
+
+<div style="text-align: right;">
+Your weapon must be a sword, mace, or hammer.
+</div>
 
 
 ___
@@ -41,7 +46,7 @@ ___
 
 A noble Paladin, fervent in his dedication to righteousness, can draw upon the spirit of that dedication to perform seemingly impossible tasks. When surrounded by his enemies, a Paladin versed in this skill sets upon his adversaries with the zealous fervor of many times his number. 
 
-Starting at **7th level**, you can use your reaction twice per round. Whenever you take the Attack action, you can make one additional melee attack to an additional target. One of your reactions must be used for attacks of opportunity, or the sentinel feat.
+Starting at **7th level**, you can use your reaction twice per round. One of your reactions must be used for attacks of opportunity, or the sentinel feat.
 
 
 ___
@@ -62,7 +67,7 @@ Additionally, if you fail a saving throw, you can roll 2d4 and add it to the tot
 |:---:|:---:|
 | 3rd | Expeditious Retreat (Vigor), Absorb Elements (Salvation) |
 | 5th | Lesser Restoration, Aid |
-| 9th | Lightning Bolt (Fist of the Heavens), Mass Healing Word (Meditation) |
+| 9th | Lightning Bolt (Holy Bolt), Mass Healing Word (Meditation) |
 
 
 
