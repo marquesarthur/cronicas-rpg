@@ -24,7 +24,7 @@ ___
 When you take this oath at **3rd level**, you gain the following Channel Divinity option.
 
 
-**Hallow Weapon.** As a bonus action, you can imbue one sword that you are holding with positive/negative energy, using your Channel Divinity. For 1 minute, the first creature you hit on each of your turns with a sword takes extra damage equal to half your Paladin level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature. If the weapon is not already magical, it becomes magical for the duration.
+**Hallow Weapon.** As a bonus action, you can imbue one sword that you are holding with positive/negative energy, using your Channel Divinity. For 1 minute, the first creature you hit on each of your turns with a sword takes extra damage equal to 1d6 plus half your Paladin level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature. If the weapon is not already magical, it becomes magical for the duration.
 
 You can end this effect on your turn as part of any other action. If you are no longer holding or carrying this weapon, or if you fall unconscious, this effect ends.
 
@@ -86,6 +86,7 @@ On a hit, the target suffers the attack's normal effects, and a wave of thundero
 <div style="text-align: center;">
 "Demolish weapons with fury! Hellcry Punch!"
 </div>
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
 <br>
 
 
@@ -107,6 +108,7 @@ On a hit, the target suffers the attack's normal effects, and a terrific wail as
 <div style="text-align: center;">
 "Heaven's wish to destroy all minds... Judgment Blade!"
 </div>
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
 <br>
 
 ___
@@ -129,6 +131,7 @@ On a hit, the target suffers the attack's normal effects, and purple lightning l
 <div style="text-align: center;">
 "Absorb power in the sky and strike! Lightning Stab!"
 </div>
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
 <br>
 
 ___
@@ -152,6 +155,7 @@ On a hit, the target suffers the attack's normal effects, and spectral frost cov
 <div style="text-align: center;">
 "Armor won't help the heart stay sharp... Icewolf Bite!"
 </div>
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line tag flip">
 <br>
 
 ___
