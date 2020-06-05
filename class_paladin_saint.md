@@ -84,8 +84,9 @@ On a hit, the target suffers the attack's normal effects, and a wave of thundero
 
 
 <div style="text-align: center;">
-*"Demolish weapons with fury! Hellcry Punch!" *
+"Demolish weapons with fury! Hellcry Punch!"
 </div>
+<br>
 
 
 
@@ -104,8 +105,9 @@ On a hit, the target suffers the attack's normal effects, and a terrific wail as
 
 
 <div style="text-align: center;">
-*"Demolish weapons with fury! Hellcry Punch!" *
+"Heaven's wish to destroy all minds... Judgment Blade!"
 </div>
+<br>
 
 ___
 
@@ -125,8 +127,9 @@ As part of the action used to cast this spell, you must make a melee attack with
 On a hit, the target suffers the attack's normal effects, and purple lightning leaps from the target to 3 different creatures of your choice that you can see within 30 feet of it. The second creatures take 2d6 lightning damage. You can teleport to an unoccupied space adjacent to any of the creatures targeted by the lightning.
 
 <div style="text-align: center;">
-*"Absorb power in the sky and strike! Lightning Stab!"*
+"Absorb power in the sky and strike! Lightning Stab!"
 </div>
+<br>
 
 ___
 
@@ -147,8 +150,9 @@ On a hit, the target suffers the attack's normal effects, and spectral frost cov
 
 
 <div style="text-align: center;">
-*"Armor won't help the heart stay sharp... Icewolf Bite!"*
+"Armor won't help the heart stay sharp... Icewolf Bite!"
 </div>
+<br>
 
 ___
 
@@ -173,8 +177,9 @@ A creature affected by this spell makes a Wisdom saving throw at the end of its 
 
 
 <div style="text-align: center;">
-*"Life is short... Bury! Stasis Sword!"*
+"Life is short... Bury! Stasis Sword!"
 </div>
+<br>
 
 <img
   src='https://i.pinimg.com/564x/20/3b/ca/203bcac0eb546a7abbefeb4f1c26424a.jpg'
