@@ -44,6 +44,8 @@ ___
 * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 * <a href="{{ site.baseurl }}/sorcerer/fey">Sorcerer -- Fey Soul</a>
 * <a href="{{ site.baseurl }}/wizard/sevenfold">Wizard -- Initiate of the Sevenfold Veil</a>
+* <a href="{{ site.baseurl }}/wizard/blood">Wizard -- Blood Mage</a>
+* <a href="{{ site.baseurl }}/wizard/shadow">Wizard -- Shadow Adept</a>
 
 
 <br><br>
