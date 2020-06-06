@@ -40,7 +40,6 @@ ___
 * <a href="{{ site.baseurl }}/paladin/saint">Paladin -- Sword Saint</a>
 * <a href="{{ site.baseurl }}/paladin/zealer">Paladin -- Zealer</a>
 * <a href="{{ site.baseurl }}/ranger/dervish">Ranger -- Dervish</a>
-* <a href="{{ site.baseurl }}/ranger/falconer">Ranger -- Falconer</a>
 * <a href="{{ site.baseurl }}/ranger/sniper">Ranger -- Deepwood Sniper</a>
 * <a href="{{ site.baseurl }}/rogue/whisper">Rogue -- Whispering Knife</a>
 * <a href="{{ site.baseurl }}/sorcerer/fey">Sorcerer -- Fey Soul</a>
