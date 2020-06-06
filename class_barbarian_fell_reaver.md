@@ -43,7 +43,7 @@ At **10th level**, your deeds and actions caught the attention of a fiend entity
 
 
 
-* **Cinder (Balor)** Similar to a Balor's fiery aura, you burst in hellish flame. Choose up to five creatures that you can see within 30 feet of you. The creature must succeed on a Dexterity saving throw, taking 5d6 fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried.
+* **Cinder (Balor)** Similar to a Balor's fiery aura, you burst in hellish flame. Choose up to five creatures that you can see within 30 feet of you. The creature must succeed on a Dexterity saving throw, taking 5d6 fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried. Your fiery aura ignores resistance. 
 * **Haliax (Pit fiend)**  Similar to a Pit fiend's fear aura, your mere presence strikes fear in the heart of your enemies. Choose up to five creatures that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
 * **Caeth (Ultroloth)** You bask into the raw magic used by the Yugoloth while you momentarily manifest a Ultroloth's gaze. You teleport up to 60 feet to an unoccupied space you can see. Upon arrival, an adjacent creature must succeed on a Charisma saving throw or be restrained until the end of your next turn.
 
