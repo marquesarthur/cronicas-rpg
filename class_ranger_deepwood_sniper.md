@@ -53,11 +53,10 @@ Beginning at **5th level**, you can attack twice, instead of once, whenever you 
 
 ___
 
-## Threaten
+## Rain of Arrows
 By **7th level**, your reflexes are so accurate that you threaten your surroundings as if you are engaged in melee combat. 
 
-Any creature moving anywhere 20 feet away but not immediately adjacent to you cause attacks of opportunity. You can use a ranged weapon to perform this attack and, in case the attack hits, any feats or benefits applied only to melee weapons apply to your attack.
-
+Any creature entering a space 15 feet away from you cause attacks of opportunity. You can use a ranged weapon to perform this attack and, in case the attack hits, any feats or benefits applied only to melee weapons apply to your attack.
 
 
 You can use this feature a number of times equals to your Dexterity modifier. You regain all expended uses of it when you finish a short or long rest.

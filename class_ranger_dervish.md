@@ -66,11 +66,11 @@ ___
 
 Starting at **15th level**, you have honed your ability to fight with two weapons both aggressively and defensively. As a reaction to the first attack roll a creature makes against you, you start to use your blades to deflect any incoming attacks made by that creature against you.
 
-Make a contested attack roll against all the creature's attack rolls on that turn. If you win, the creature's attack misses you and you may roll damage for your attack roll.
+For each one of the creature's attacks, make an attack roll against the creature's AC. If you hit, the creature's attack misses you and you may roll damage for your attack roll.
 The damage roll alternates between your main-hand weapon and your off-hand weapon. For example, if you deflect three attacks using this feature, the first damage roll is from your main-hand weapon, the second from your off-hand weapon and the last, from your main-hand again.
 
 
-You can use this feature three times. You regain all expended uses of it when you finish a long rest.
+You can use this feature two times. You regain all expended uses of it when you finish a long rest.
 
 
 <img

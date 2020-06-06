@@ -50,7 +50,7 @@ As an bonus action, you can expend a use of your Wild Shape feature to awaken yo
 * **Empowered Blast**: add your Wisdom modifier to the damage of any stone missile of  your geomagnetic blast.
 
 
-These benefits last for 10 minutes, until you lose all these temporary hit points, or until you use your Wild Shape again.
+These benefits last for 10 minutes, or until you use your Wild Shape again.
 
 ___
 
@@ -60,8 +60,7 @@ ___
 
 At **6th level**, you can further empower your geomagnetic blast with a aftershock effect. 
 
-Once per turn, you may expend a druid spell slot to cause one of your stone missiles to deal extra damage. The extra damage is 1d8 per level of the spell slot, to a maximum of 5d8. 
-Additionally, whenever your earth revenant class feature is active, a creature hit by a empowered stone missile must also succeed on a Constitution saving throw against your spell save DC or be stunned until the end of your next turn.
+Once per turn, you may expend a druid spell slot to empower one of your stone missiles. A creature hit by an empowered stone missile must succeed on a Constitution saving throw against your spell save DC or be stunned until the end of your next turn.
 
 
 
@@ -108,7 +107,7 @@ ___
 
 You use geomagnetic energy to control earth and stone in your surroundings. One or more stone missiles streak toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d10 bludgeoning damage.
 
-The spell creates more than one stone missiles when you reach higher levels: two stone missiles at 5th level, three at 11th level, and four stone missiles at 17th level. You can direct the attacks at the same target or at different ones. Make a separate attack roll for each stone missile.
+The spell creates more than one stone missile when you reach higher levels: two stone missiles at 5th level, three at 11th level, and four stone missiles at 17th level. You can direct the attacks at the same target or at different ones. Make a separate attack roll for each stone missile.
 
 
 
