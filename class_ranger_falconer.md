@@ -3,8 +3,8 @@ layout: homebrew
 title:  "Falconer"
 category: Inspired on the Deepwood Sniper prestige class from DnD 3.5
 keywords: Ranger & Homebrew
-author: art by Arnaerr
-abstract: An arrow flies from a high mountain aerie, unerringly striking a paladin's mount. Expecting only a flesh wound, the paladin is stunned to watch his companion of many adventures crumple to the earth. This unfortunate knight has trespassed into the domain of the deepwood sniper, and he may not make it out alive. 
+author: art by Christ B
+abstract: A
 permalink: /ranger/falconer
 ---
 

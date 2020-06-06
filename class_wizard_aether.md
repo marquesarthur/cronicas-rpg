@@ -3,7 +3,7 @@ layout: homebrew
 title:  "Aether Wizard"
 category: Inspired on the Initiate of the Sevenfold Veil prestige class from DnD 3.5
 keywords: Wizard & Homebrew
-author: art by  Phoenixlu
+author: art by Benjamin Ee
 abstract: Colors are imbued with their own magical properties. Just as exotic substances and mystic words have the power to repel certain creatures, colors also harbor innate properties that can be brought forth by the skilled mage, culminating in the perfection of the prismatic wall or prismatic sphere. Few spells match the beauty and power of these potent abjurations. They are perfect defenses, representing a union of magical lore and keen insight into the workings of nature. A master of defensive magic, the Initiate of the Sevenfold Veil approaches the prismatic barrier by mastering one by one its constituent veils or layers. 
 permalink: /wizard/aether
 ---
