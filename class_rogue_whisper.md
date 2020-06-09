@@ -12,7 +12,8 @@ permalink: /rogue/whisper
 
 
 ## Steady Aim
-Starting at **3rd level**, attacking at long range with a weapon with the light and throwing properties doesn't impose disadvantage on your ranged weapon attack rolls.
+
+<i class="ra ra-targeted"></i> Starting at **3rd level**, attacking at long range with a weapon with the light and throwing properties doesn't impose disadvantage on your ranged weapon attack rolls.
 
 
 Additionally, you can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
@@ -20,7 +21,8 @@ Additionally, you can draw or stow two one-handed weapons when you would normall
 ___
 
 ## Whisper Knife
-When you choose this archetype at **3rd level**, you learn the secret magic that makes the weapons of the whispering knives so deadly.
+
+<i class="ra ra-daggers"></i> When you choose this archetype at **3rd level**, you learn the secret magic that makes the weapons of the whispering knives so deadly.
 
 You magically attune to up to four weapons in your possession with the light and throwing properties. The weapon damage dice increases to a d6 and, whenever you throw them, the weapon dissipates at the end of the turn. Thereafter, the weapon reapears in their sheaths.
 
@@ -34,7 +36,8 @@ ___
 
 
 ## Pierce the Veil
-Like a ghost, you have the ability to slip in and out of the Ethereal Plane. 
+
+<i class="ra ra-player-teleport"></i> Like a ghost, you have the ability to slip in and out of the Ethereal Plane. 
 
 Starting at the **9th level**, you can use your cunning action in your first turn of a combat to cast the blink spell. 
 
@@ -46,7 +49,7 @@ ___
 
 ## Deadly Reflexes
 
-Starting at **13th level**, you have mastered the art of knife throwing. As a reaction to an enemy moving towards you, you may make a ranged weapon attack. If the attack hits, you may acrobatically tumble 10 feet away from the enemy without provoking an attack of opportunity. Even in the etheral plane, you can still use this class feature and affect creatures in the material plane, as your thrown knifes pierce the veil between the two planes.
+<i class="ra ra-hood"></i> Starting at **13th level**, you have mastered the art of knife throwing. As a reaction to an enemy moving towards you, you may make a ranged weapon attack. If the attack hits, you may acrobatically tumble 10 feet away from the enemy without provoking an attack of opportunity. Even in the etheral plane, you can still use this class feature and affect creatures in the material plane, as your thrown knifes pierce the veil between the two planes.
 
 You can use this feature a number of times equals to your Dexterity modifier.
 You regain all expended uses of it when you finish a long rest.
@@ -55,7 +58,8 @@ ___
 
 
 ## Knife Barrage
-By **17th leve**l, when you use the Attack action and make a ranged attack with a one handed weapon, make one additional attack. You automatically draw a throwing weapon for this extra attack.
+
+<i class="ra ra-kunai"></i> By **17th leve**l, when you use the Attack action and make a ranged attack with a one handed weapon, make one additional attack. You automatically draw a throwing weapon for this extra attack.
 
 
   

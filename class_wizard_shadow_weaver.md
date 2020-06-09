@@ -3,7 +3,7 @@ layout: homebrew
 title:  "Shadow Adept"
 category: Inspired on the Shadow weave magic from DnD 3.5
 keywords: Wizard & Homebrew
-author: art from FRCS (pg. 52-53)
+author: art by yi Tang
 abstract: A Shadow Adept is a spellcaster who specializes in using the Shadow Weave. They fearlessly reach out to the Shadow Weave for power and knowledge.
 permalink: /wizard/shadow
 ---
@@ -32,19 +32,25 @@ ___
 
 Shadow adepts hurl themselves into the abyss of the Shadow Weave, immediately acquiring all the gifts available to casual students and discovering secrets unavailable to all but the most dedicated.
 
-At **6th level**, you gain access to two of the following shadow weave metamagics:
-
-
-* **Deceptive Spell (Adrammelech)** When you Cast a Spell that forces a creature to make a saving throw to resist its Effects, one target of the spell has disadvantage on its first saving throw made against the spell.
-* **Blistering Spell (Belias)** You can use the Shadow Weave to make your spells harder for Weave users to dispel. A spell cast through the shadow weave cannot be countered or dispelled.
-* **Blightful Spell (Zalhera)** When you cast a spell that deals acid, fire, thunder, cold, or lightning damage, any creature affected by the spell cannot benefit from resistances to the spell damage.
-
-
-Applying one shadow weave metamagic to a spell requires your bonus action. You can use this feature three times. You regain all expended uses of it when you finish a long rest.
+At **6th level**, once per turn, you can apply one of the following shadow weave metamagics:
 
 
 
-<br><br><br>
+<span class="glyphicon glyphicon-eye-close"></span> **Deceptive Spell (Adrammelech)** When you Cast a Spell that forces a creature to make a saving throw to resist its Effects, one target of the spell has disadvantage on its first saving throw made against the spell.
+
+<span class="glyphicon glyphicon-remove"></span> **Blistering Spell (Belias)** You can use the Shadow Weave to make your spells harder for Weave users to dispel. A spell cast through the shadow weave cannot be countered or dispelled by a spell of the same level or lower. Spellcasting checks have disadvantage.
+
+<i class="ra ra-skull"></i> **Blightful Spell (Zalhera)** When you cast a spell that deals acid, fire, thunder, cold, or lightning damage, you can change the damage type to necrotic. Additionally, undead creatures cannot benefit from resistances to the spell necrotic damage.
+
+
+ 
+
+
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses of it when you finish a long rest.
+
+
+
+<br>
 
 ___
 
@@ -67,5 +73,5 @@ Additionally, a creature must make an Intelligence saving throw against your spe
 You can use this feature twice. You regain all expended uses of it when you finish a long rest.  
 
 <img
-  src='https://vignette.wikia.nocookie.net/forgottenrealms/images/0/0e/Aeron_Morieth.jpg/revision/latest?cb=20190628113645'
+  src='https://i.pinimg.com/564x/cb/c0/3d/cbc03dbacfc6e0917afc9b913dc92d5b.jpg'
   style='style=overflow: hidden; mix-blend-mode:multiply'/>

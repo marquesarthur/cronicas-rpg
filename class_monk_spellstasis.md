@@ -42,9 +42,11 @@ ___
 
 At **11th level**, you have learned unique techniques kept secret only to the Spellstasis masters. When using your Flurry of Blows, bend the spell weave to bask into raw elemental magic. Once per turn, you can use up to 3 ki points (depending on the technique used) to add one of the following effects to your flurry:
 
-* **Claws of Thunder**  A spellstasis charges the ions surrounding her and delivers a devastating thunder attack. As part of one of your Flurry of Blows attacks, you can spend 1 ki point to cast the Thunderwave spell. Use your ki save DC to resolve any saving throws against the spell.
-* **Fist of Fire**  A spellstasis can charge her own fists with pyrokinetic energies, scorching her opponents when the charge is released. As part of one of your Flurry of Blows attacks, you can spend 2 ki points to  add 1d8 fire damage to your attack and apply the effects of the Blindness spell to the target hit as the fire scorches your target senses. Use your ki save DC to resolve any saving throws against the spell.
-* **Blades of Ice** the trained spellstasis can chill opponents with a vicious rake of her hands. As part of one of your Flurry of Blows attacks, you can spend 2 ki points to add 1d8 ice damage to your attack and apply the effects of the Slow spell to the target hit as ice starts to hinder their movement. Use your ki save DC to resolve any saving throws against the spell.
+<span class="ra-lightning-storm "></span> **Claws of Thunder**  A spellstasis charges the ions surrounding her and delivers a devastating thunder attack. As part of one of your Flurry of Blows attacks, you can spend 1 ki point to cast the Thunderwave spell. Use your ki save DC to resolve any saving throws against the spell.
+
+<span class="glyphicon glyphicon-fire"></span> **Fist of Fire**  A spellstasis can charge her own fists with pyrokinetic energies, scorching her opponents when the charge is released. As part of one of your Flurry of Blows attacks, you can spend 2 ki points to  add 1d8 fire damage to your attack and apply the effects of the Blindness spell to the target hit as the fire scorches your target senses. Use your ki save DC to resolve any saving throws against the spell.
+
+<i class="ra ra-frost-emblem"></i> **Blades of Ice** the trained spellstasis can chill opponents with a vicious rake of her hands. As part of one of your Flurry of Blows attacks, you can spend 2 ki points to add 1d8 ice damage to your attack and apply the effects of the Slow spell to the target hit as ice starts to hinder their movement. Use your ki save DC to resolve any saving throws against the spell.
 
 
 
