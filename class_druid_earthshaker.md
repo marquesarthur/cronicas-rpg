@@ -20,7 +20,7 @@ ___
 
 ## Circle Spells
 
-Your symbiotic link to the earth and soil grants you access to certain spells. At **2nd level**, you learn the Geomagnetic Blast cantrip. This cantrip is exclusive to the circle of the earthshaker and no other class or circle can cast it.
+<i class="ra  ra-emerald"></i> Your symbiotic link to the earth and soil grants you access to certain spells. At **2nd level**, you learn the Geomagnetic Blast cantrip. This cantrip is exclusive to the circle of the earthshaker and no other class or circle can cast it.
 
 
 At 3rd, 5th, 7th, and 9th level you gain access to the spells listed for that level in the Earthshaker Spells table.
@@ -33,7 +33,7 @@ ___
 ## Stone Endurance
 
 
-At **2nd level**, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
+<i class="ra ra-player-teleport "></i> At **2nd level**, your hit point maximum increases by 1 and increases by 1 again whenever you gain a level in this class.
 
 Additionally, parts of your skin are covered by a thin thin yet resistant magical armor made of earth and stone. When you aren’t wearing armor, your AC equals 13 + your Dexterity modifier. 
 
@@ -42,7 +42,8 @@ At 6th level your AC increases to 14 + your Dexterity modifier and at 10th level
 ___
 
 ## Earth Revenant
-At **2nd level**, you gain the ability to magically control the environment around you.
+
+<i class="ra ra-cog "></i> At **2nd level**, you gain the ability to magically control the environment around you.
 
 As an bonus action, you can expend a use of your Wild Shape feature to awaken your earth armor. Rather than transforming into a beast form, stones and debris break from the nearby environment and whirl around you causing damage to attackers and empowering your geomagnetic blast. You gain the following benefits:
 
@@ -58,7 +59,7 @@ ___
 ## Aftershock
 
 
-At **6th level**, you can further empower your geomagnetic blast with a aftershock effect. 
+<i class="ra ra-groundbreaker "></i> At **6th level**, you can further empower your geomagnetic blast with a aftershock effect. 
 
 Once per turn, you may expend a druid spell slot to empower one of your stone missiles. A creature hit by an empowered stone missile must succeed on a Constitution saving throw against your spell save DC or be stunned until the end of your next turn.
 
@@ -81,7 +82,7 @@ ___
 ## Echo Slam
 
 
-At **10th level**, you gain the ability to cause a small earthquake by stomping the ground and channeling your geomagnetic grip through your surroundings. 
+<i class="ra ra-lava "></i> At **10th level**, you gain the ability to cause a small earthquake by stomping the ground and channeling your geomagnetic grip through your surroundings. 
 
 As a reaction before an enemy movement or attack roll within 60 feet of you, you cause a shockwave that travels through the ground and hits the target. The creature must succeed on a Dexterity saving throw against your spell save DC or be knocked prone. If the target has burrow speed, it makes the roll with disadvantage.
 

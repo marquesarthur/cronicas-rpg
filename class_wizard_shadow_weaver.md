@@ -12,7 +12,7 @@ permalink: /wizard/shadow
 
 ## Shield of Shadows
 
-Damning an enemy to the darkness of their own evil, this curse surrounds the afflicted in a sphere of perfect darkness and silence, blinding them.
+<i class="ra ra-hood ra-2x"></i> Damning an enemy to the darkness of their own evil, this curse surrounds the afflicted in a sphere of perfect darkness and silence, blinding them.
 
 When you choose this school at **2nd level**, you learn how to manipulate the shadow weave. When you are attacked by a creature within 30 feet of you or you are the target of a single target spell, you can use your reaction to blind the target. The creature's attack rolls against you 
 have disadvantage or, in the case of a spell, the caster does not have line of sight against you potentially having to choose a new target.
@@ -22,7 +22,7 @@ You can use this feature a number of times equal to your Intelligence modifier (
 
 ## Weaver of Shadows
 
-You can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. You are immune to an enemy's shield of shadows class Feature.
+<i class="ra ra-bleeding-eye"></i> You can see normally in darkness, both magical and nonmagical, to a distance of 60 feet. You are immune to an enemy's shield of shadows class Feature.
 
 
 ___
@@ -57,7 +57,7 @@ ___
 
 ## Shadow Double
 
-Starting at **10th level**,  a shadow adept can create an identical clone of himself using shadows.
+<i class="ra ra-double-team"></i> Starting at **10th level**,  a shadow adept can create an identical clone of himself using shadows.
 
 
 As a bonus action, you create a perfect illusion of yourself that lasts for 1 minute. The illusion appears in an unoccupied space that you can see within 30 feet of you. The shadow has AC 13 + your proficiency modifier and any spells or attacks that target a creature can target the illusion. 

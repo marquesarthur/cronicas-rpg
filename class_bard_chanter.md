@@ -12,7 +12,7 @@ permalink: /bard/chanter
 
 ## War and Song
 
-When you adopt this tradition at **3rd level**, you gain proficiency with medium armor, the shield, and the battle axe.
+<i class="ra ra-horn-call "></i> When you adopt this tradition at **3rd level**, you gain proficiency with medium armor, the shield, and the battle axe.
 
 If you’re proficient with a simple or martial melee weapon, you can use it as a spell casting focus for your bard spells\.
 
@@ -22,7 +22,7 @@ ___
 
 ## Battle Chant
 
-Starting at **3rd level**, you can expend one use of your bardic inspiration and you can invoke a secret magic song.
+<i class="ra ra-crowned-heart"></i> Starting at **3rd level**, you can expend one use of your bardic inspiration and you can invoke a secret magic song.
 
 You can use a bonus action to start chanting, which lasts for 1 minute. It ends early if you are incapacitated or silenced. You can also dismiss chanting at any time you choose (no action required). You start with two songs and you learn an additional song at the 7th and 10th levels.
 
@@ -39,7 +39,7 @@ ___
 
 ## Song of Wrath
 
-Starting at **6th level**, whenever you chant, you start to stockpile raw magic. Your chant starts with one rhythm and 
+<i class="ra ra-monster-skull "></i> Starting at **6th level**, whenever you chant, you start to stockpile raw magic. Your chant starts with one rhythm and 
 at every turn, you can spend your bonus action and add one extra rhythm to your chant. Instead of adding a rhythm to your chant, you can use your bonus action to burn your pool of rhythms and evoke one of the following effects. Whenever you use this feature, your battle chant ends.
 
 
@@ -56,7 +56,7 @@ ___
 
 ## Secret of Rhymes
 
-Beginning at **10th level**, you can change the song/effect of your battle chant at the beginning of your turn (no action required). Also, your chant starts with two rhythms.
+<i class="ra ra-scroll-unfurled"></i> Beginning at **10th level**, you can change the song/effect of your battle chant at the beginning of your turn (no action required). Also, your chant starts with two rhythms.
 
 
 

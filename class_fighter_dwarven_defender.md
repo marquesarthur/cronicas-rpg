@@ -13,13 +13,13 @@ permalink: /fighter/defender
 ## Hold the Line
 
 
-Beginning when you choose this archetype at **3rd level**, creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
+<i class="ra ra-round-shield "></i> Beginning when you choose this archetype at **3rd level**, creatures provoke an opportunity attack from you when they move 5 feet or more while within your reach, and if you hit a creature with an opportunity attack, the target's speed is reduced to 0 until the end of the current turn.
 
 ___
 
 ## Defensive Stance
 
-Starting at **3rd level**, you can spend your bonus action and take a defensive stance. When a dwarf defender adopts a defensive stance, they gain phenomenal strength and durability. While on defensive stance:
+<i class="ra ra-boot-stomp "></i> Starting at **3rd level**, you can spend your bonus action and take a defensive stance. When a dwarf defender adopts a defensive stance, they gain phenomenal strength and durability. While on defensive stance:
 
 
 * You have advantage on all Dexterity saving throws.
@@ -33,7 +33,7 @@ ___
 
 ## Dwarvish Runes
 
-Starting at **7th level**, you enchant your armor and shield with mighty dwarven runes. You can carve up to three runes which remain on an object until you finish a long rest or you activate the rune, dispelling its effect. 
+<i class="ra ra-anvil"></i> Starting at **7th level**, you enchant your armor and shield with mighty dwarven runes. You can carve up to three runes which remain on an object until you finish a long rest or you activate the rune, dispelling its effect. 
 
 
 
@@ -47,7 +47,7 @@ ___
 
 ## Living Fortress
 
-Starting at **10th level**, you have advantage on initiative rolls.
+<i class="ra ra-tower"></i> Starting at **10th level**, you have advantage on initiative rolls.
 Additionally, your defensive stance AC bonus increases to +2.
 
 
