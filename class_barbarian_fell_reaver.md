@@ -14,7 +14,7 @@ permalink: /barbarian/reaver
 ## Fiendish Heritage
 
 
-At **3rd level**, when you adopt this path, you bask into the power of a fiend, a demon, or a yugoloth. Either you or your ancestors had contacted one of these entities in a crossroad and the magic blood from the hellish pact awaken in your veins. At your option, you gain minor physical attributes that reflect your hellish pact, as an example, your eye pupils turn red, you gain small horn protuberances, or your blood turns green.  You can speak the abyssal and infernal languages. 
+<i class="ra ra-horns"></i>  At **3rd level**, when you adopt this path, you bask into the power of a fiend, a demon, or a yugoloth. Either you or your ancestors had contacted one of these entities in a crossroad and the magic blood from the hellish pact awaken in your veins. At your option, you gain minor physical attributes that reflect your hellish pact, as an example, your eye pupils turn red, you gain small horn protuberances, or your blood turns green.  You can speak the abyssal and infernal languages. 
 
 ___
 
@@ -25,15 +25,17 @@ While raging, you have resistance to fire and poison damage. Additionally, your 
 
 
 
-* **Gothmog (Balor)** Similar to a Balrog's sword, flames, smog and crackling lighting surrounds your weapon. Weapon attacks from one weapon that you hold score a critical hit on a roll of 19 or 20. 
-* **Mannoroth (Pit fiend)**  Similar to a Pit fiend's poisonous bite, sulphur and poison drip from your blade. Weapon attacks from one weapon that you hold debilitate your enemies. The first attack roll of a creature hit by your weapon has disadvantage. 
-* **Aulmpiter (Ultroloth)** Even ragining, you are capable of drawing the inherent arcane energy of a yugoloth to imbue your weapon with raw magic. Weapon attacks from one weapon that you hold deal an additional 1d6 force magic damage. The damage dice increases to a d8 at 7th level and to a d10 at 10th level.
+<i class="ra ra-lightning-sword"></i> **Gothmog (Balor)** Similar to a Balrog's sword, flames, smog and crackling lighting surrounds your weapon. Weapon attacks from one weapon that you hold score a critical hit on a roll of 19 or 20. 
+
+<i class="ra ra-dripping-blade"></i> **Mannoroth (Pit fiend)**  Similar to a Pit fiend's poisonous bite, sulphur and poison drip from your blade. Weapon attacks from one weapon that you hold debilitate your enemies. The first attack roll of a creature hit by your weapon has disadvantage. 
+
+<i class="ra ra-kaleidoscope"></i> **Aulmpiter (Ultroloth)** Even ragining, you are capable of drawing the inherent arcane energy of a yugoloth to imbue your weapon with raw magic. Weapon attacks from one weapon that you hold deal an additional 1d6 force magic damage. The damage dice increases to a d8 at 7th level and to a d10 at 10th level.
 
 ___
 
 ## Demonic Blood
 
-At **6th level**, you further awaken the fiendish power from your demonic heritage. Similar to how demons resist magic, you can momentarily gain resistance to spell effects. If you fail a saving throw from any spell or other magical effects while raging, you can reroll it, and you must use the new roll. You can use this feature a number of times equal to your Strength modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+<i class="ra ra-player-pyromaniac"></i> At **6th level**, you further awaken the fiendish power from your demonic heritage. Similar to how demons resist magic, you can momentarily gain resistance to spell effects. If you fail a saving throw from any spell or other magical effects while raging, you can reroll it, and you must use the new roll. You can use this feature a number of times equal to your Strength modifier (a minimum of once). You regain all expended uses when you finish a long rest.
 
 
 
@@ -43,9 +45,11 @@ At **10th level**, your deeds and actions caught the attention of a fiend entity
 
 
 
-* **Cinder (Balor)** Similar to a Balor's fiery aura, you burst in hellish flame. Choose up to five creatures that you can see within 30 feet of you. The creature must succeed on a Dexterity saving throw, taking 5d6 fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried. Your fiery aura ignores resistance. 
-* **Haliax (Pit fiend)**  Similar to a Pit fiend's fear aura, your mere presence strikes fear in the heart of your enemies. Choose up to five creatures that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
-* **Caeth (Ultroloth)** You bask into the raw magic used by the Yugoloth while you momentarily manifest a Ultroloth's gaze. You teleport up to 60 feet to an unoccupied space you can see. Upon arrival, an adjacent creature must succeed on a Charisma saving throw or be restrained until the end of your next turn.
+<i class="ra ra-burning-embers "></i> **Cinder (Balor)** Similar to a Balor's fiery aura, you burst in hellish flame. Choose up to five creatures that you can see within 30 feet of you. The creature must succeed on a Dexterity saving throw, taking 5d6 fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried. Your fiery aura ignores resistance. 
+
+<i class="ra ra-broken-skull"></i> **Haliax (Pit fiend)**  Similar to a Pit fiend's fear aura, your mere presence strikes fear in the heart of your enemies. Choose up to five creatures that you can see within 30 feet of you. If the creature can see or hear you, it must succeed on a Wisdom saving throw or be frightened of you until the end of your next turn.
+
+<i class="ra ra-doubled"></i> **Caeth (Ultroloth)** You bask into the raw magic used by the Yugoloth while you momentarily manifest a Ultroloth's gaze. You teleport up to 60 feet to an unoccupied space you can see. Upon arrival, an adjacent creature must succeed on a Charisma saving throw or be restrained until the end of your next turn.
 
 
 <img src='https://i.pinimg.com/564x/2e/6a/15/2e6a15fc3c835f5c1260e28cdf449de3.jpg'

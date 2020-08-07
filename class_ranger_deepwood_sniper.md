@@ -11,7 +11,7 @@ permalink: /ranger/sniper
 
 ## Deepwood Magic
 
-Starting at **3rd level**, you learn an additional spell when you reach certain levels in this class, as shown in the Deepwood Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+<i class="ra ra-dead-tree"></i> Starting at **3rd level**, you learn an additional spell when you reach certain levels in this class, as shown in the Deepwood Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
 
 | Spell level | Expanded Spells  |
 |:---:|:---:|
@@ -26,14 +26,14 @@ ___
 ## Eagle's Nest
 
 
-At **3rd level**, climbing no longer costs you extra Movement and you ignore the first 10 feet of fall damage. You are not prone if you take no fall damage due to this class feature.
+<i class="ra ra-raven"></i> At **3rd level**, climbing no longer costs you extra Movement and you ignore the first 10 feet of fall damage. You are not prone if you take no fall damage due to this class feature.
 
 
 ___
 
 ## Consistent Aim
 
-At **3rd level**, you master bowmanship. 
+<i class="ra ra-archer"></i> At **3rd level**, you master bowmanship. 
 
 You know how to aim so precisely that you exploit gaps in the armor of a foe. Once per turn, you can deal an extra 1d6 damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.
 You don’t need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn’t incapacitated, and you don’t have disadvantage on the attack roll.
@@ -54,7 +54,8 @@ Beginning at **5th level**, you can attack twice, instead of once, whenever you 
 ___
 
 ## Rain of Arrows
-By **7th level**, your reflexes are so accurate that you threaten your surroundings as if you are engaged in melee combat. 
+
+<i class="ra ra-arrow-flights"></i> By **7th level**, your reflexes are so accurate that you threaten your surroundings as if you are engaged in melee combat. 
 
 Any creature entering a space 15 feet away from you cause attacks of opportunity. You can use a ranged weapon to perform this attack and, in case the attack hits, any feats or benefits applied only to melee weapons apply to your attack.
 
@@ -65,7 +66,8 @@ ___
 
 
 ## Slayer Arrow
-At **11th level**, you can expend one spell slot to magically imbue your quiver. For 1 minute, any arrows that you draw and that you fire from your bow have one of the following slaying effects:
+
+<i class="ra ra-arrow-cluster"></i> At **11th level**, you can expend one spell slot to magically imbue your quiver. For 1 minute, any arrows that you draw and that you fire from your bow have one of the following slaying effects:
 
 
 * **Dailir**  Green leaf blade arrows pierce through magical illusions or protections. Whenever you draw an Dailir arrow, you ignore benefits provided from the shield, invisibility, mirror image or blur spells.

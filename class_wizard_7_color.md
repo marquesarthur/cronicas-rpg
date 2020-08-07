@@ -13,7 +13,7 @@ permalink: /wizard/sevenfold
 ## Veil Warding
 
 
-When you choose this school at **2nd level**, you learn how to manipulate the sevenfold veil to create powerful wards. As a reaction, you can use one of the following veils depending on your level:
+<i class="ra ra-explosive-materials"></i> When you choose this school at **2nd level**, you learn how to manipulate the sevenfold veil to create powerful wards. As a reaction, you can use one of the following veils depending on your level:
 
 1. **Red**. Triggered when you take fire damage. You gain resistance to the target damage.
 2. **Green**. Triggered when you take poison damage. You gain resistance to the target damage.
@@ -33,14 +33,14 @@ ___
 
 ## Unanswerable Strike
 
-At **6th level**, an initiate can raise two veils at once. Any time you use your warding, choose an ally within 30 feet of you. The ally gain the benefits of your choosen ward. Additionally, until the end of your next turn, the first time both you or your ally cast a cantrip or make a weapon attack roll, you choose acid, cold, fire, lightning, poison, or thunder and the target takes 1d10 extra damage of the type you chose.  
+<i class="ra ra-kaleidoscope"></i> At **6th level**, an initiate can raise two veils at once. Any time you use your warding, choose an ally within 30 feet of you. The ally gain the benefits of your choosen ward. Additionally, until the end of your next turn, the first time both you or your ally cast a cantrip or make a weapon attack roll, you choose acid, cold, fire, lightning, poison, or thunder and the target takes 1d10 extra damage of the type you chose.  
 
 ___
 
 
 ## Kaleidoscopic Doom
 
-Starting at **10th level**, an Initiate of the Sevenfold Veil learns the secret of the awesome kaleidoscopic doom. She designates one creature within 60 feet and turns prismatic effects against the creature. Roll a d8 to determine which color affects the creature. Whenever you roll a 8, you choose two different colors. Use your wizard spell save DC for any effects that require a saving throw.
+<i class="ra ra-implosion"></i> Starting at **10th level**, an Initiate of the Sevenfold Veil learns the secret of the awesome kaleidoscopic doom. She designates one creature within 60 feet and turns prismatic effects against the creature. Roll a d8 to determine which color affects the creature. Whenever you roll a 8, you choose two different colors. Use your wizard spell save DC for any effects that require a saving throw.
 
 <div style="text-align: right;">
 Design note: the initial damage of the Kaleidoscopic Doom is balanced around the firebolt cantrip. 

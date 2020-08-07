@@ -11,7 +11,7 @@ permalink: /cleric/bleak
 ## Bonus Proficiency
 
 
-At **1st level**, you gain proficiency with martial weapons and heavy armor.
+<i class="ra ra-knight-helmet "></i> At **1st level**, you gain proficiency with martial weapons and heavy armor.
 
 ___
 
@@ -31,7 +31,8 @@ When you choose this domain at **1st level**, you call upon your god's inner wra
 ___
 
 ## Channel Divinity: Sacred Immolation
-Starting at **2nd level**, you can use your Channel Divinity to self-immolates in blue flame. As an action, you burn with holy flames. For 1 minute enemies in the area take immolation damage and you and allies regain a small amount of endurance.
+
+<i class="ra ra-heartburn"></i> Starting at **2nd level**, you can use your Channel Divinity to self-immolates in blue flame. As an action, you burn with holy flames. For 1 minute enemies in the area take immolation damage and you and allies regain a small amount of endurance.
 
 
 As long as the immolation is active, you can use your bonus action to magically make the fire pulse in a 10 foot radius around you. 
@@ -41,11 +42,13 @@ Up to three Enemies in the area take 1d6 + your Wisdom modifier radiant or necro
 The immolation damage increases by one die when you reach 5th level (2d6), and 11th level (3d6). The hit points regained increase to twice your Wisdom modifier when you reach 11th level.
 
 
+<br><br><br><br>
 
 ___
 
 ## Zealous Focus
-Starting at **6th level**, you can utter a war cry announcing the bleak walker's arrival to the battlefield.
+
+<i class="ra ra-targeted"></i> Starting at **6th level**, you can utter a war cry announcing the bleak walker's arrival to the battlefield.
 
 As a bonus action, you grant yourself a zealous focus for 1 minute or until you fall unconscious. For the duration, when you take the Attack action on your turn you can attack twice, instead of once. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
@@ -55,7 +58,8 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ___
 
 ## Divine Strike
-At **8th level**, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+<i class="ra ra-bowie-knife"></i> At **8th level**, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type dealt by the weapon to the target. When you reach 14th level, the extra damage increases to 2d8.
 
 
 <img
