@@ -52,7 +52,7 @@ ___
 
 As a bonus action, you grant yourself a zealous focus for 1 minute or until you fall unconscious. For the duration, when you take the Attack action on your turn you can attack twice, instead of once. You ignore this benefit if you already have a feature, like Extra Attack, that gives you extra attacks.
 
-You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses when you finish a long rest.
+You can use this feature a number of times equal to your proficiency bonus (minimum of once). You regain all expended uses when you finish a long rest.
 
 
 ___

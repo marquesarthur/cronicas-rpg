@@ -35,7 +35,7 @@ You have advantage on saving throws against being charmed, and magic can’t put
 
 
 <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
-This class feature puts the sorcerer at 21 spells.  When compared to full casters as a Wizard with 44 or a Bard with 19, it seems that the Sorcerer got the short end of the stick.
+This class feature puts the sorcerer at 21 spells.  When compared to full casters such as a Wizard with 44 or a Bard with 19, it seems that the Sorcerer got the short end of the stick.
 <img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
 
 
@@ -44,7 +44,11 @@ This class feature puts the sorcerer at 21 spells.  When compared to full caster
 
 <i class="ra ra-flowers"></i> Starting at **6th level**, your connection with the Feywild deepens. When you use sorcery points, your fey bloodline makes you draw magic directly from the Feywild, causing you to look more gracious and formidable to your opponents. 
 
-Whenever you use your Metamagic class feature to augment a spell or when you spend sorcery points to gain spell slots, you gain temporary hit points equal to three times the number of sorcery points used to create a spell slot or to augment a spell with metamagic. As an example, applying the Heightened Spell metamagic would grant you 9 temporary hit points while creating a spell slot of 3rd level would grant 15 hit points.
+Whenever you use your Metamagic class feature to augment a spell or when you spend sorcery points to gain spell slots, you gain temporary hit points equal to four times the number of sorcery points used to create a spell slot or to augment a spell with metamagic. As an example, applying the Heightened Spell metamagic would grant you 12 temporary hit points while creating a spell slot of 3rd level would grant 20 hit points.
+
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
+Temporary hit points do not stack!
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
 
 ___
 
@@ -59,11 +63,7 @@ You can’t manifest your wings while wearing armor and clothing not made to acc
 
 Starting at **18th level**, the raw magic from the fey court deeply enhances your spell casting abilities. When using Fey metamagic, you look wildly unpredictable and your appearance changes similar to the change of seasons. The sharp wind of Winter whirlwinds around you, your surroundings boils as the harsh Summer weather, etc.
 
-Whenever you cast a spell that requires concentration, you can spend 3 sorcery points to maintain concentration on up to two spells. One of these spells cannot have been modified by metamagic and the spell duration is halved, e.g., a 1 minute spell would last for 5 turns. While you maintain concentration on two spells, you have resistance to Bludgeoning, Piercing, and Slashing From Nonmagical Attacks.
-
-
-
- 
+Whenever you cast a spell that requires concentration, you can spend 3 sorcery points to ignore maintaining concentration. The spell cannot benefit from metamagic and the spell duration is halved, e.g., a 1 minute spell would last for 5 turns. While you maintain concentration on two spells, you have resistance to Bludgeoning, Piercing, and Slashing From Nonmagical Attacks.
 
   
 <img

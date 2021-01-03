@@ -60,7 +60,8 @@ ___
 Any creature entering a space 15 feet away from you cause attacks of opportunity. You can use a ranged weapon to perform this attack and, in case the attack hits, any feats or benefits applied only to melee weapons apply to your attack.
 
 
-You can use this feature a number of times equals to your Dexterity modifier. You regain all expended uses of it when you finish a short or long rest.
+You can use this feature a number of times equals to your proficiency bonus.
+You regain all expended uses of it when you finish a short or long rest.
 
 ___
 
@@ -70,12 +71,9 @@ ___
 <i class="ra ra-arrow-cluster"></i> At **11th level**, you can expend one spell slot to magically imbue your quiver. For 1 minute, any arrows that you draw and that you fire from your bow have one of the following slaying effects:
 
 
-* **Dailir**  Green leaf blade arrows pierce through magical illusions or protections. Whenever you draw an Dailir arrow, you ignore benefits provided from the shield, invisibility, mirror image or blur spells.
+* **Dailir**  Green leaf blade arrows pierce through magical illusions or protections. Whenever you draw an Dailir arrow, you ignore benefits provided from the shield, invisibility, mirror image or blur spells or spell-like abilities (e.g. a displacer beast's displacement).
 * **Belthronding** Black sharp arrows pierce through your first target. One creature adjacent to your target also takes your consistent aim damage.
 * **Elene** A black-feathered arrow barbed with steel. On a hit, the target speed is reduced by 5 feet until the start of your next turn. This effect is cumulative, e.g., 2 hits would reduce the target speed by a total of 10 feet.
-
-
-
 
 
 <img width="115%"

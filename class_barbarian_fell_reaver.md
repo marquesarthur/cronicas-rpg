@@ -29,13 +29,13 @@ While raging, you have resistance to fire and poison damage. Additionally, your 
 
 <i class="ra ra-dripping-blade"></i> **Mannoroth (Pit fiend)**  Similar to a Pit fiend's poisonous bite, sulphur and poison drip from your blade. Weapon attacks from one weapon that you hold debilitate your enemies. The first attack roll of a creature hit by your weapon has disadvantage. 
 
-<i class="ra ra-kaleidoscope"></i> **Aulmpiter (Ultroloth)** Even ragining, you are capable of drawing the inherent arcane energy of a yugoloth to imbue your weapon with raw magic. Weapon attacks from one weapon that you hold deal an additional 1d6 force magic damage. The damage dice increases to a d8 at 7th level and to a d10 at 10th level.
+<i class="ra ra-kaleidoscope"></i> **Aulmpiter (Ultroloth)** Even ragining, you are capable of drawing the inherent arcane energy of a yugoloth to imbue your weapon with raw magic. Weapon attacks from one weapon that you hold deal an additional 1d6 force magic damage. The damage dice increases to a d8 at 7th level and to a d10 at 11th level.
 
 ___
 
 ## Demonic Blood
 
-<i class="ra ra-player-pyromaniac"></i> At **6th level**, you further awaken the fiendish power from your demonic heritage. Similar to how demons resist magic, you can momentarily gain resistance to spell effects. If you fail a saving throw from any spell or other magical effects while raging, you can reroll it, and you must use the new roll. You can use this feature a number of times equal to your Strength modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+<i class="ra ra-player-pyromaniac"></i> At **6th level**, you further awaken the fiendish power from your demonic heritage. Similar to how demons resist magic, you can momentarily gain resistance to spell effects. If you fail a saving throw from any spell or other magical effects while raging, you can reroll it, and you must use the new roll. You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
 
 

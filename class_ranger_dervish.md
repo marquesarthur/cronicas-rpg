@@ -30,7 +30,9 @@ ___
 <i class="ra ra-regeneration"></i> At **3rd level**, you master the art of two-weapon fighting. 
 
 When you make your first Attack on Your Turn, you can decide to Attack recklessly. Doing so gives you an extra 
-1d6 weapon damage per weapon attack, but you must use your bonus action to attack with your off-hand weapon.
+1d4 weapon damage per weapon attack, but you must use your bonus action to attack with your off-hand weapon.
+
+Starting at **11th level**, the damage increases to 1d6 per weapon attack.
 
 ___
 
@@ -54,7 +56,8 @@ ___
 
 <i class="ra ra-double-team"></i> By **7th level**, you may cast the Mirror Image spell as a bonus action, without expending a spell slot or the need of any spell components. 
 
-You can use this feature three times. You regain all expended uses of it when you finish a long rest.
+Use can use this feature a number of times equals to half your proficiency bonus (rounded up). 
+You regain all expended uses of it when you finish a long rest.
 
 ___
 

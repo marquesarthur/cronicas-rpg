@@ -23,10 +23,10 @@ permalink: /wizard/sevenfold
 6. **Indigo**. Triggered when you are subject to an effect that imposes the restrained condition or when you try to escape a grapple. You roll width advantage.
 7. **Violet**. Triggered when you are subject to an effect that imposes the  blinded condition. You roll the save width advantage.
 
-As an example, a 4th level initiate has access to the red, green, blue, and orange veils. At 7th level, you master all the veils.
 
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
 
-You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+You know one veil per level in this class. As an example, a 4th level initiate has access to the red, green, blue, and orange veils. At 7th level, you master all the veils.
 
 ___
 
@@ -42,9 +42,12 @@ ___
 
 <i class="ra ra-implosion"></i> Starting at **10th level**, an Initiate of the Sevenfold Veil learns the secret of the awesome kaleidoscopic doom. She designates one creature within 60 feet and turns prismatic effects against the creature. Roll a d8 to determine which color affects the creature. Whenever you roll a 8, you choose two different colors. Use your wizard spell save DC for any effects that require a saving throw.
 
-<div style="text-align: right;">
+
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line">
 Design note: the initial damage of the Kaleidoscopic Doom is balanced around the firebolt cantrip. 
-</div>
+<img src="{{ site.baseurl }}/assets/img/grunge.png" alt="" class="line flip">
+
+
 
 <br>
 
